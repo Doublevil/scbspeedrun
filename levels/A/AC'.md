@@ -1,6 +1,6 @@
 # The Assembler > AC'
 
-[< Back (JumpCart)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/A/JumpCart.md) | [Next (PP0) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/PP/PP0.md)
+[< Back (JumpCart)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/A/JumpCart.md) | [Next (PP0) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/pp/PP0.md)
 
 ## Strat
 

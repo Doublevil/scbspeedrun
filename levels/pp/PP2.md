@@ -1,6 +1,6 @@
 # Power Plants > PP2
 
-[< Back (PP1)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/PP/PP1.md) | [Next (PP3) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/PP/PP3.md)
+[< Back (PP1)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/pp/PP1.md) | [Next (PP3) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/pp/PP3.md)
 
 ## Strat
 
@@ -8,7 +8,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/PP/PP2_Strat.webp)
+  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP2_Strat.webp)
 
   **Notes**
   - Jump early to avoid waiting too much for Cable Boy to fall down.

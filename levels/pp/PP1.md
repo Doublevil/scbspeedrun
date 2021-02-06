@@ -1,6 +1,6 @@
 # Power Plants > PP1
 
-[< Back (PP0)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/PP/PP0.md) | [Next (PP2) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/PP/PP2.md)
+[< Back (PP0)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/pp/PP0.md) | [Next (PP2) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/pp/PP2.md)
 
 ## Strat
 
@@ -8,5 +8,5 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/PP/PP1_Strat.webp)
+  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP1_Strat.webp)
 </details>

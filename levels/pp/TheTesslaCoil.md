@@ -1,6 +1,6 @@
 # Power Plants > TheTesslaCoil
 
-[< Back (PP14)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/PP/PP14.md) | [Next (InkCart) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/PP/InkCart.md)
+[< Back (PP14)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/pp/PP14.md) | [Next (InkCart) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/pp/InkCart.md)
 
 **Notes**
 - This is by far the easiest and most boring boss fight of the game. No, the Disassembler doesn't count.
@@ -15,7 +15,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/PP/TheTesslaCoil_HorizontalAttack.webp)
+  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_HorizontalAttack.webp)
 </details>
 
 ---
@@ -25,7 +25,7 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/PP/TheTesslaCoil_TargetedAttack.webp)
+  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_TargetedAttack.webp)
 </details>
 
 ---
@@ -35,7 +35,7 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/PP/TheTesslaCoil_CircularAttack.webp)
+  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_CircularAttack.webp)
 
   **Notes**
   - YAWN
