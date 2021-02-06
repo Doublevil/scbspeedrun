@@ -1,9 +1,9 @@
 # Sleep Mode > KernelPanic
 
-[< Back (SL5)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/sl/SL5.md) | 
+[< Back (SL5)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/sl/SL5.md) | [Next (T) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/T/T.md)
 
 **Notes**
-- Unskippable cutscene - but you can quit out after the flashing "Kernel panic" text disappears.
+- Unskippable cutscene - but you can quit out after the flashing "Kernel panic" text disappears, right after Cable Boy reappears.
 
 ## Strat
 
