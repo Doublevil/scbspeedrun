@@ -1,0 +1,15 @@
+# Liquid Crystal Dimension > LCDTransition
+
+[< Back (VoltageCart)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/LCD/VoltageCart.md) | 
+
+## Strat
+
+`Time` **00:10.900** `Difficulty` ★☆☆☆☆
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCDTransition_Strat.webp)
+
+  **Notes**
+  - You can quit out when the screen is black after falling down. The game is actually loading stuff during this transition though, and loading will prevent you to pause. So the pause timing may vary.
+</details>

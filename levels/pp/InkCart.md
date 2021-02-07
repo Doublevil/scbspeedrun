@@ -1,6 +1,6 @@
 # Power Plants > InkCart
 
-[< Back (TheTesslaCoil)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/pp/TheTesslaCoil.md) | 
+[< Back (TheTesslaCoil)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/pp/TheTesslaCoil.md) | [Next (LCD) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/LCD/LCD.md)
 
 ## Strat
 
