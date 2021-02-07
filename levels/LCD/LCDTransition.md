@@ -1,6 +1,6 @@
 # Liquid Crystal Dimension > LCDTransition
 
-[< Back (VoltageCart)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/LCD/VoltageCart.md) | 
+[< Back (VoltageCart)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/LCD/VoltageCart.md) | [Next (FW) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/FW/FW.md)
 
 ## Strat
 

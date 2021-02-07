@@ -1,0 +1,15 @@
+# Firewall > FW6
+
+[< Back (FW5)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/FW/FW5.md) | [Next (FW7) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/FW/FW7.md)
+
+## Strat
+
+`Time` **00:15.350** `Difficulty` ★★☆☆☆
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW6_Strat.webp)
+
+  **Notes**
+  - Obviously you don't have to take that shortcut at the start, it barely saves a second.
+</details>
