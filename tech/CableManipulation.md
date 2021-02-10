@@ -10,7 +10,19 @@ Here are the two general techniques you can use.
 
 When dragging the cable behind you, jumping while holding forward will cause the cable to swing below Cable Boy, making a fully stretched semi-circle before losing momentum. You can use this to get the cable fully stretched to the right and thus have it reach the plug a bit earlier, in levels where the platforms and timing allows it.
 
-TODO: Add pics
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/CableManipulation_SwingJump.webp)
+
+<details>
+  <summary>Compare with no jumping at all</summary>
+  
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/CableManipulation_NoJump.webp)
+</details>
+
+<details>
+  <summary>Compare with a slightly faster jumping strat</summary>
+  
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/CableManipulation_JumpFromAbove.webp)
+</details>
 
 ## Geometry bounce
 
@@ -18,4 +30,4 @@ In some levels, the platform geometry near the end (gaps, walls, etc) allows you
 
 This technique doesn't work in many levels, isn't particularly reliable, and saves very little time, but it's still nice to know, because for the most part it will cost you no time to try it.
 
-TODO: Add pics
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/CableManipulation_Bounce.webp)
