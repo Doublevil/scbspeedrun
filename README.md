@@ -17,9 +17,9 @@ If you're looking to get started in Super Cable Boy speedrunning (welcome!), her
 
 ## General speedrunning techs
 
-This section contains links to individual pages detailing speedrunning techniques and general knowledge that is not tied to a particular level and that we use throughout the run.
-
-TODO
+This section contains links to individual pages detailing speedrunning techniques and general knowledge that is not tied to a particular level and that we use throughout the run:
+- [Manipulating the cable](https://github.com/Doublevil/scbspeedrun/blob/main/tech/CableManipulation.md)
+- More to come soon
 
 ## Level-by-level strats collection
 
