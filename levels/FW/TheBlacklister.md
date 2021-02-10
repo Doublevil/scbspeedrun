@@ -1,6 +1,6 @@
 # Firewall > TheBlacklister
 
-[< Back (FW11)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/FW/FW11.md) | 
+[< Back (FW11)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/FW/FW11.md) | [Next (CORE) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/CORE/CORE.md)
 
 **Notes**
 - This is a boss fight. The Blacklister is a big eye with glitchy tentacles and wants you dead.
