@@ -11,5 +11,5 @@
   ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCDTransition_Strat.webp)
 
   **Notes**
-  - You can quit out when the screen is black after falling down. The game is actually loading stuff during this transition though, and loading will prevent you to pause. So the pause timing may vary.
+  - You can quit out when the screen is black after falling down. The game is actually loading stuff during this transition though, and loading will prevent you to pause. So the pause timing depends on your machine.
 </details>

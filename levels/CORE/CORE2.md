@@ -5,7 +5,7 @@
 **Notes**
 - Because the Core levels are so long and quite difficult, and also are the end of the run, you generally should try to reduce risk instead of optimizing speed. On these levels, trying to save 3 seconds can quickly end up costing you 30 seconds and killing your run.
 
-## Voltage strat
+## Full voltage strat
 
 `Time` **00:11.800** `Difficulty` ★★★★☆
 <details open>
@@ -15,7 +15,7 @@
 </details>
 
 ---
-## Voltage strat
+## Double voltage strat
 
 `Time` **00:13.200** `Difficulty` ★★★☆☆
 <details>

@@ -13,7 +13,7 @@
   **Notes**
   - You mostly have to input diagonal directions. Take a good look at the gamepad inputs on the video.
   - Make sure you don't jump too high when jumping between the glitch blocks with the jump cart, and then again two jumps later, when hook-jumping below the glitch block to reach the outlet on the right. After some training you should be able to recognize if you're at the right height and correct it by adjusting the timing of your jumps if required.
-  - Hooking the level-ending outlet at the end is tricky, sometimes it will fail for no good reasons. Be ready to re-grab the outlet on the left if needed.
+  - Hooking into the level-ending outlet at the end is tricky, sometimes it will fail for no good reasons. Be ready to re-grab the outlet on the left if needed.
 </details>
 
 ---

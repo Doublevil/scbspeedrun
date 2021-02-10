@@ -27,7 +27,7 @@
   - This one is just insane.
   - There are 2 wall clips in that strat (the one on the first jump and the ceiling one).
   - The idea is to regen the dashes to be able to skip part of the level.
-  - The ceiling wall clip is completely unreliable.
+  - The ceiling wall clip is completely inconsistent.
   - Please don't try this at home.
 </details>
 
@@ -54,5 +54,5 @@
   ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_NoInk.webp)
 
   **Notes**
-  - If you have trouble getting your ink toggles right and you don't want to practice, you can always fallback to this strat. It's very safe but also very slow.
+  - If you have trouble getting your ink toggles right, you can always fallback to this strat. It's very safe but also very slow.
 </details>

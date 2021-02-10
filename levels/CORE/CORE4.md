@@ -15,7 +15,7 @@
 
   **Notes**
   - The first section is ridiculously hard. Just look at the gamepad inputs.
-  - The dash at the end is safe though, you could absolutely incorporate it into a safer strat.
+  - The voltage at the end is safe though, you could absolutely incorporate it into a safer strat.
 </details>
 
 ---
