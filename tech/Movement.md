@@ -61,7 +61,7 @@ Corner boosting is used for various strats, but you should always plan a backup 
 
 Dashing gives the best results in terms of speed. Here's an example with a dash, where you can see both the speed boost and the jump cart regen:
 
-![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_CornerBoost.webp)
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_CornerBoostDash.webp)
 
 ## Movement speed with cartridges
 
