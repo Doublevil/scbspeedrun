@@ -44,6 +44,25 @@ Wall jumps are another way of moving around. Wall jumps are shorter in height bu
 
 Once you get the Cable Cart, you'll want to minimize vertical wall jumps, as they're pretty slow overall. They will be even more of a loss when you get the jump and voltage carts.
 
+## Corner boost
+
+Corner boosting is a pretty inconsistent technique that you can theoretically execute every time you're jumping, dashing or generally moving fast against a corner of a platform from below.
+
+What it does is a couple things:
+- You can jump right after making it to the corner, cutting down the time you'd otherwise wait for Cable Boy to fall down and land on the platform.
+- Your Jump Cart is regenerated, meaning you can dash right away, even if you executed the corner boost with a dash.
+- It will actually shoot you past the corner, which can make you move very fast, especially if you are executing the corner boost with a dash.
+
+Here's an example in The Tower > T, demonstrating how you can jump right after making it past the corner on a corner boost. When corner boosting with a simple jump, the boost is very subtle, but you can kind of see it here pushing Cable Boy upwards.
+
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_CornerBoostJump.webp)
+
+Corner boosting is used for various strats, but you should always plan a backup for when it fails, because it's so inconsistent.
+
+Dashing gives the best results in terms of speed. Here's an example with a dash, where you can see both the speed boost and the jump cart regen:
+
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_CornerBoost.webp)
+
 ## Movement speed with cartridges
 
 Jumping while swinging with the **Cable Cart** keeps the momentum of the swing, meaning you can reach slightly higher speed than the game would usually allow you to. However, when hooking, you have to be careful about your angle and distance from the point you are hooking to. Depending on these factors, it might stop you for a little while, or build up on your momentum. Getting the latter is not entirely consistent, but seems to work better when you're close to the hook point.
