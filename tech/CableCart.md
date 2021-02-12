@@ -14,7 +14,7 @@ A very useful move with the hook is to jump immediately after grabbing. This mov
 
 It's also by far the fastest way to move vertically with the hook.
 
-![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/Movement_CableGrabHopping.webp)
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_CableGrabHopping.webp)
 
 ## High jumps
 
@@ -26,7 +26,7 @@ It's a bit tricky because you have to press Down and then immediately Up - the k
 
 This is used for a few strats. Here's how Assembly > A7 uses this technique:
 
-![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/Movement_CableHighJump.webp)
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_CableHighJump.webp)
 
 ## Fast movement with the hook
 
@@ -51,7 +51,7 @@ The Cable Cart also allows us to clip through geometry when there are moving obj
 
 So far, the only useful cable clipping strat we've found is the one that skips the Disassembler fight.
 
-![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/Movement_DisassemblerSkip.webp)
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_DisassemblerSkip.webp)
 
 Here, the hand of The Disassembler moves over the cable while we are hooked, which makes the physics engine react in an interesting way, moving Cable Boy around at very high speeds, which means we get to zip through the wall.
 
