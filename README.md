@@ -20,9 +20,9 @@ If you're looking to get started in Super Cable Boy speedrunning (welcome!), her
 This section contains links to individual pages detailing speedrunning techniques and general knowledge that is not tied to a particular level and that we use throughout the run:
 - [Manipulating the cable](https://github.com/Doublevil/scbspeedrun/blob/main/tech/CableManipulation.md)
 - [In-depth movement](https://github.com/Doublevil/scbspeedrun/blob/main/tech/Movement.md)
+- [Cable cart techs](https://github.com/Doublevil/scbspeedrun/blob/main/tech/CableCart.md)
 - [Ink cart techs](https://github.com/Doublevil/scbspeedrun/blob/main/tech/InkCart.md)
 - [Voltage cart techs](https://github.com/Doublevil/scbspeedrun/blob/main/tech/VoltageCart.md)
-- More to come soon
 
 ## Level-by-level strats collection
 
