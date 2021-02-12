@@ -8,21 +8,25 @@ After getting the cable cart, using the cable cart to grab the exit plug from af
 
 Once you get the voltage cart, it's usually pretty fast to just voltage dash to the exit. It should still save a little bit of time to use the cable cart on some levels, so you might still want to try that.
 
-## High jumps
-
-When hooked, if you press the jump button while holding Up, Cable Boy will jump extra high.
-
-To reach high places, you can swing and high jump, and then re-grab the same spot from above, and immediately perform a high jump. This is used for strats where you have to reach very high, like in Assembly > A7.
-
-![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/Movement_CableHighJump.webp)
-
 ## Grab-hopping
 
 A very useful move with the hook is to jump immediately after grabbing. This move is easy to do and will preserve your jumping horizontal speed, while allowing you to move around obstacles in the most reliable way.
 
-Combining this with high jumps is also by far the fastest way to move vertically with the hook.
+It's also by far the fastest way to move vertically with the hook.
 
 ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/Movement_CableGrabHopping.webp)
+
+## High jumps
+
+As you probably already know by now, when hooked, if you press the jump button while holding Up, Cable Boy will jump extra high.
+
+Now, to reach even higher platforms, you can swing and high jump, and then re-grab the same spot from above, and immediately perform a high jump.
+
+It's a bit tricky because you have to press Down and then immediately Up - the key to get it consistently is to take a few frames after re-grabbing to stabilize and make sure you're pressing Up before jumping.
+
+This is used for a few strats. Here's how Assembly > A7 uses this technique:
+
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/Movement_CableHighJump.webp)
 
 ## Fast movement with the hook
 
