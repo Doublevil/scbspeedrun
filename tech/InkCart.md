@@ -26,8 +26,22 @@ However, we haven't found any real use for this in speedrunning. So yeah, it's u
 
 ### Boosting
 
-Again, for this purpose, the ink wall has to touch a solid wall. By pressing against the solid wall and toggling the ink wall, you will sometimes be boosted out of the ink wall at high speed. And we like speed.
+For boosting, the ink wall has to be connected to a solid surface, either on the bottom to the ground, or on the right side to a wall.
+
+Wall clipping from these setups will sometimes boost you out of the ink wall at high speed. Which is good, because we happen to like speed.
+
+In any case, this will always send you flying up and slightly to the left. There is no way that we know of that you're going to be boosted in any other direction.
+
+These boosts are inconsistent because your positioning needs to be very precise, so you might be better off avoiding them, but there's no denying that they are fast.
+
+#### Boosting against a wall
+
+When using a wall like that, you have to press Right against the wall while toggling the ink ability in order to get the boost.
 
 ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_InkWallBoost.webp)
 
-However, apart from LCD2, we have not been able to find any level where this could be used for speedrunning.
+#### Boosting against the ground
+
+When the ink wall is connected to the ground, you have to position yourself almost centered, but very slightly to the left of the ink wall when toggling the ink ability.
+
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_InkGroundBoost.webp)
