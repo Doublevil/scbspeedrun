@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # Sleep Mode > SL4
 
 [< Back (SL3)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/sl/SL3.md) | [Next (SL5) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/sl/SL5.md)
@@ -8,5 +10,5 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/SL4_Strat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/SL4_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/SL4_Strat.mp4)
 </details>

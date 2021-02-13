@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # Sleep Mode > KernelPanic
 
 [< Back (SL5)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/sl/SL5.md) | [Next (T) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/T/T.md)
@@ -11,7 +13,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/KernelPanic_Strat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/KernelPanic_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/KernelPanic_Strat.mp4)
 
   **Notes**
   - If you skip the text decently fast, you can watch the timer and press pause at about the 00:52.150 mark to quit out faster.

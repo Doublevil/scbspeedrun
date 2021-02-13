@@ -39,7 +39,9 @@ The format of every page will always follow the same structure:
     - Name of the strat
     - Approximate time of level completion when the strat is done right (without transitions)
     - Estimated difficulty of the strat, as a 5-star rating, ★☆☆☆☆ being the easiest and ★★★★★ the hardest
-    - A collapsible panel (by default only the fastest strat is expanded) containing a video of the strat being executed, and optional notes
+    - A collapsible panel (by default only the fastest strat is expanded) containing an animated image of the strat being executed, and optional notes
+
+**Note:** You can click the animated image of a strat to download a video of it.
 
 ### Level-by-level strats
 

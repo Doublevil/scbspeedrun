@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # Firewall > FW9
 
 [< Back (FW8)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/FW/FW8.md) | [Next (FW10) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/FW/FW10.md)
@@ -8,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW9_Strat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW9_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW9_Strat.mp4)
 
   **Notes**
   - You can skip the intro cutscene by quitting out and re-entering the level.

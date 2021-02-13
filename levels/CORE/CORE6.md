@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # The Core > CORE6
 
 [< Back (CORE5)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/CORE/CORE5.md) | [Next (CORE7) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/CORE/CORE7.md)
@@ -11,7 +13,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE6_RiskyStrat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE6_RiskyStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE6_RiskyStrat.mp4)
 </details>
 
 ---
@@ -21,5 +23,5 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE6_SafeStrat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE6_SafeStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE6_SafeStrat.mp4)
 </details>

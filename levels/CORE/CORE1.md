@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # The Core > CORE1
 
 [< Back (CORE0)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/CORE/CORE0.md) | [Next (CORE2) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/CORE/CORE2.md)
@@ -11,7 +13,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE1_Strat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE1_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE1_Strat.mp4)
 
   **Notes**
   - You can shave a bit more time by using the voltage cartridge on the end section here but it's very minimal.

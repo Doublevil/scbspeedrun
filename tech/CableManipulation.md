@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # Manipulating the cable
 
 As you probably know, to complete a level, Cable Boy's cable must connect to the plug. But this is also something that can be optimized. It's particularly important before CableCart, as you can't just hook to the plug from afar yet.

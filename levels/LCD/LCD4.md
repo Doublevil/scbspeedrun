@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # Liquid Crystal Dimension > LCD4
 
 [< Back (LCD3)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/LCD/LCD3.md) | [Next (LCD5) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/LCD/LCD5.md)
@@ -8,5 +10,5 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD4_Strat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD4_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD4_Strat.mp4)
 </details>

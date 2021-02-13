@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # Firewall > TheBlacklister
 
 [< Back (FW11)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/FW/FW11.md) | [Next (CORE) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/CORE/CORE.md)
@@ -20,7 +22,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_Lucky.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_Lucky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_Lucky.mp4)
 </details>
 
 ---
@@ -30,5 +32,5 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_Unlucky.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_Unlucky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_Unlucky.mp4)
 </details>

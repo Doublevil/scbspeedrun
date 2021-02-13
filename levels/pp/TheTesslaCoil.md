@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # Power Plants > TheTesslaCoil
 
 [< Back (PP14)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/pp/PP14.md) | [Next (InkCart) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/pp/InkCart.md)
@@ -15,7 +17,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_HorizontalAttack.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_HorizontalAttack.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_HorizontalAttack.mp4)
 </details>
 
 ---
@@ -25,7 +27,7 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_TargetedAttack.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_TargetedAttack.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_TargetedAttack.mp4)
 </details>
 
 ---
@@ -35,7 +37,7 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_CircularAttack.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_CircularAttack.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_CircularAttack.mp4)
 
   **Notes**
   - YAWN

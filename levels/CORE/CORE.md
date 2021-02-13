@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # The Core > CORE
 
 [< Back (TheBlacklister)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/FW/TheBlacklister.md) | [Next (CORE0) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/CORE/CORE0.md)
@@ -8,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE_CutsceneSkip.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE_CutsceneSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE_CutsceneSkip.mp4)
 </details>
 
 ---
@@ -18,5 +20,5 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE_Cutscene.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE_Cutscene.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE_Cutscene.mp4)
 </details>

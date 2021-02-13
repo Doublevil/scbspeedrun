@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # Firewall > FW2
 
 [< Back (FW1)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/FW/FW1.md) | [Next (FW3) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/FW/FW3.md)
@@ -8,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW2_PoolSkip.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW2_PoolSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW2_PoolSkip.mp4)
 
   **Notes**
   - It looks harder than it is. Just make sure to use the D-Pad for this one.
@@ -21,5 +23,5 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW2_CasualStrat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW2_CasualStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW2_CasualStrat.mp4)
 </details>

@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # The Assembler > TheDisassembler
 
 [< Back (AY5)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/A/AY5.md) | [Next (JumpCart) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/A/JumpCart.md)
@@ -8,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/TheDisassembler_Skip.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/TheDisassembler_Skip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/TheDisassembler_Skip.mp4)
 
   **Notes**
   - The Disassembler has a scary face but he's a nice dude and just wants to help us go through the door.

@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # The Core > CORE5
 
 [< Back (CORE4)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/CORE/CORE4.md) | [Next (CORE6) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/CORE/CORE6.md)
@@ -11,7 +13,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE5_OptimizedStrat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE5_OptimizedStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE5_OptimizedStrat.mp4)
 
   **Notes**
   - The great thing about this one is, it's no more difficult than the casual strat. You could even argue that it's easier.
@@ -24,5 +26,5 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE5_CasualStrat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE5_CasualStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE5_CasualStrat.mp4)
 </details>

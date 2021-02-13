@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # The Assembler > AY2
 
 [< Back (AY2)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/A/AY2.md) | [Next (AY3) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/A/AY3.md)
@@ -8,5 +10,5 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY2_Strat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY2_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY2_Strat.mp4)
 </details>

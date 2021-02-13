@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # Cable cart techs
 
 ## Grabbing the exit plug from afar

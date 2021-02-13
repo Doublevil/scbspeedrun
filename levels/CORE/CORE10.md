@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # The Core > CORE10
 
 [< Back (CORE9)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/CORE/CORE9.md) | [Next (TUNNEL) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/CORE/TUNNEL.md)
@@ -11,7 +13,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE10_RiskyStrat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE10_RiskyStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE10_RiskyStrat.mp4)
 
   **Notes**
   - Definitely way too risky for a real run.
@@ -24,5 +26,5 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE10_SafeStrat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE10_SafeStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE10_SafeStrat.mp4)
 </details>

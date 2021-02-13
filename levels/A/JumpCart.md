@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # The Assembler > JumpCart
 
 [< Back (TheDisassembler)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/A/TheDisassembler.md) | [Next (AC') >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/A/AC'.md)
@@ -8,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/JumpCart_Strat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/JumpCart_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/JumpCart_Strat.mp4)
 
   **Notes**
   - Once again, we quit out right as the background changes to continue to the Power Plants.

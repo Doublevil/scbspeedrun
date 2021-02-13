@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # The Core > CORE4
 
 [< Back (CORE3)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/CORE/CORE3.md) | [Next (CORE5) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/CORE/CORE5.md)
@@ -11,7 +13,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE4_RiskyStrat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE4_RiskyStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE4_RiskyStrat.mp4)
 
   **Notes**
   - The first section is ridiculously hard. Just look at the gamepad inputs.
@@ -25,5 +27,5 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE4_SafeStrat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE4_SafeStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE4_SafeStrat.mp4)
 </details>

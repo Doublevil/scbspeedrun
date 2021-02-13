@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # Liquid Crystal Dimension > LCD7
 
 [< Back (LCD6)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/LCD/LCD6.md) | [Next (LCD8) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/LCD/LCD8.md)
@@ -8,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_TripleBlink.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_TripleBlink.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_TripleBlink.mp4)
 
   **Notes**
   - The triple blink part is a bit tight. You might want to go with the safe strat instead if you're not too confident with the ink cartridge.
@@ -21,7 +23,7 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_SafeStrat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_SafeStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_SafeStrat.mp4)
 
   **Notes**
   - Easier than the triple blink and doesn't lose too much time.

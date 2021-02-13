@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # The Cloud > T'
 
 [< Back (CableCart)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/C/CableCart.md) | [Next (A) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/A/A.md)
@@ -11,5 +13,5 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/C/T'_Strat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/C/T'_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/C/T'_Strat.mp4)
 </details>

@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # The Assembler > AC'
 
 [< Back (JumpCart)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/A/JumpCart.md) | [Next (PP0) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/pp/PP0.md)
@@ -8,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AC'_Strat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AC'_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AC'_Strat.mp4)
 
   **Notes**
   - We are back to the AC level from before, but this time we are going to the Power Plants.

@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # Liquid Crystal Dimension > LCD12
 
 [< Back (LCD11)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/LCD/LCD11.md) | [Next (LCD13) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/LCD/LCD13.md)
@@ -8,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_WallSkip.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_WallSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_WallSkip.mp4)
 
   **Notes**
   - You don't have to do the wall clip on the first jump, but it saves a bit of time. If you go for it, make sure to jump out of the wall right after switching to triple jump. This counts as a normal jump (as if you were jumping off the ground, i.e. not a double-jump), and will allow you to avoid the glitch blocks.
@@ -21,7 +23,7 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_CrazyWallClip.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_CrazyWallClip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_CrazyWallClip.mp4)
 
   **Notes**
   - This one is just insane.
@@ -38,7 +40,7 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_OptimizedCasual.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_OptimizedCasual.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_OptimizedCasual.mp4)
 
   **Notes**
   - This is pretty much doing the level normally but in an optimized form.
@@ -51,7 +53,7 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_NoInk.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_NoInk.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_NoInk.mp4)
 
   **Notes**
   - If you have trouble getting your ink toggles right, you can always fallback to this strat. It's very safe but also very slow.

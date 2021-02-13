@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # In-depth movement
 
 This page details how general movement and jumping work in the game.

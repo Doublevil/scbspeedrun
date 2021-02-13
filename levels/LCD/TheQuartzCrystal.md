@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # Liquid Crystal Dimension > TheQuartzCrystal
 
 [< Back (LCD13)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/LCD/LCD13.md) | [Next (VoltageCart) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/LCD/VoltageCart.md)
@@ -15,7 +17,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/TheQuartzCrystal_Lucky.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/TheQuartzCrystal_Lucky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/TheQuartzCrystal_Lucky.mp4)
 
   **Notes**
   - This is what happens when you get all 4 prisms in the normal dimension.
@@ -28,7 +30,7 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/TheQuartzCrystal_Unlucky.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/TheQuartzCrystal_Unlucky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/TheQuartzCrystal_Unlucky.mp4)
 
   **Notes**
   - This is what happens when you get all 4 prisms in the other dimension.

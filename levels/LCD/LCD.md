@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # Liquid Crystal Dimension > LCD
 
 [< Back (InkCart)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/pp/InkCart.md) | [Next (LCD0) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/LCD/LCD0.md)
@@ -11,7 +13,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD_CutsceneSkip.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD_CutsceneSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD_CutsceneSkip.mp4)
 
   **Notes**
   - You cannot hook to those flying transparent blocks from too close or you'll trigger the cutscene.

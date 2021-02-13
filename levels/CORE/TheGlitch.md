@@ -1,3 +1,5 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
 # The Core > TheGlitch
 
 [< Back (KERNELPANIC')](https://github.com/Doublevil/scbspeedrun/blob/main/levels/CORE/KERNELPANIC'.md) | 
@@ -22,5 +24,5 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/TheGlitch_Strat.webp)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/TheGlitch_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/TheGlitch_Strat.mp4)
 </details>
