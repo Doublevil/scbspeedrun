@@ -10,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AC'_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AC'_Strat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AC'_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AC'_Strat.mp4?raw=true)
 
   **Notes**
   - We are back to the AC level from before, but this time we are going to the Power Plants.

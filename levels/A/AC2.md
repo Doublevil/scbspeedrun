@@ -10,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AC2_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AC2_Strat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AC2_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AC2_Strat.mp4?raw=true)
 
   **Notes**
   - We are going to the Triple Jump Cart through the AY path, which is way faster.

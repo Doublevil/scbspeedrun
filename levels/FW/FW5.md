@@ -10,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW5_PoolSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW5_PoolSkip.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW5_PoolSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW5_PoolSkip.mp4?raw=true)
 
   **Notes**
   - This is a very lenient strat. Your trajectory doesn't have to be perfect at all to make it to the end. Should anything go wrong, you can recover using the jump and cable carts.
@@ -23,5 +23,5 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW5_CasualStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW5_CasualStrat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW5_CasualStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW5_CasualStrat.mp4?raw=true)
 </details>

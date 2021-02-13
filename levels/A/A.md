@@ -10,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/A_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/A_Strat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/A_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/A_Strat.mp4?raw=true)
 
   **Notes**
   - Quitting out during the cutscene and re-entering the level saves time.

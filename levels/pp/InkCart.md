@@ -10,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/InkCart_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/InkCart_Strat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/InkCart_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/InkCart_Strat.mp4?raw=true)
 
   **Notes**
   - Unlike the two first cartridge levels, we cannot quit out of this one.

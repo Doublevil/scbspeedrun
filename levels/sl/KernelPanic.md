@@ -13,7 +13,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/KernelPanic_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/KernelPanic_Strat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/KernelPanic_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/KernelPanic_Strat.mp4?raw=true)
 
   **Notes**
   - If you skip the text decently fast, you can watch the timer and press pause at about the 00:52.150 mark to quit out faster.

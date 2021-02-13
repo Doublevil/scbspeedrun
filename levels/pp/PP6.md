@@ -10,5 +10,5 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP6_BatterySkipStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP6_BatterySkipStrat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP6_BatterySkipStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP6_BatterySkipStrat.mp4?raw=true)
 </details>

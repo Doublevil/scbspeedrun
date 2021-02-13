@@ -22,7 +22,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_Lucky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_Lucky.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_Lucky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_Lucky.mp4?raw=true)
 </details>
 
 ---
@@ -32,5 +32,5 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_Unlucky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_Unlucky.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_Unlucky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_Unlucky.mp4?raw=true)
 </details>

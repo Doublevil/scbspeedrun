@@ -13,7 +13,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD_CutsceneSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD_CutsceneSkip.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD_CutsceneSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD_CutsceneSkip.mp4?raw=true)
 
   **Notes**
   - You cannot hook to those flying transparent blocks from too close or you'll trigger the cutscene.

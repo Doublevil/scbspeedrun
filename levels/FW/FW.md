@@ -10,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW_CutsceneSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW_CutsceneSkip.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW_CutsceneSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW_CutsceneSkip.mp4?raw=true)
 
   **Notes**
   - It only barely saves time on this level to skip the cutscene. If you don't do it perfectly, you lose time, so it's not worth going for it.
@@ -23,5 +23,5 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW_CasualStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW_CasualStrat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW_CasualStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW_CasualStrat.mp4?raw=true)
 </details>

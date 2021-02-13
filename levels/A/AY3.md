@@ -10,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY3_CycleSkipStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY3_CycleSkipStrat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY3_CycleSkipStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY3_CycleSkipStrat.mp4?raw=true)
 
   **Notes**
   - Requires a lot of practice to master.
@@ -25,5 +25,5 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY3_CasualStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY3_CasualStrat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY3_CasualStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY3_CasualStrat.mp4?raw=true)
 </details>

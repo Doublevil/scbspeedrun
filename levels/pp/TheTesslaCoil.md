@@ -17,7 +17,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_HorizontalAttack.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_HorizontalAttack.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_HorizontalAttack.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_HorizontalAttack.mp4?raw=true)
 </details>
 
 ---
@@ -27,7 +27,7 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_TargetedAttack.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_TargetedAttack.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_TargetedAttack.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_TargetedAttack.mp4?raw=true)
 </details>
 
 ---
@@ -37,7 +37,7 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_CircularAttack.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_CircularAttack.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_CircularAttack.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/TheTesslaCoil_CircularAttack.mp4?raw=true)
 
   **Notes**
   - YAWN

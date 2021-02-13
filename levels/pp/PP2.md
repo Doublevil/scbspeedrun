@@ -10,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP2_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP2_Strat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP2_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP2_Strat.mp4?raw=true)
 
   **Notes**
   - Jump early to avoid waiting too much for Cable Boy to fall down.

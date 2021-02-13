@@ -10,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW3_DoubleSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW3_DoubleSkip.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW3_DoubleSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW3_DoubleSkip.mp4?raw=true)
 
   **Notes**
   - You mostly have to input diagonal directions. Take a good look at the gamepad inputs on the video.
@@ -25,5 +25,5 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW3_CasualStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW3_CasualStrat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW3_CasualStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW3_CasualStrat.mp4?raw=true)
 </details>

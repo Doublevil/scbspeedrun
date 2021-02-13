@@ -10,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP0_CutsceneSkipStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP0_CutsceneSkipStrat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP0_CutsceneSkipStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP0_CutsceneSkipStrat.mp4?raw=true)
 
   **Notes**
   - Be careful to not get too close to the "Power Plants" sign. The hook range is just enough to grab it without triggering the cutscene.

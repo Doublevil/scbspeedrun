@@ -10,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP4_HookingStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP4_HookingStrat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP4_HookingStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP4_HookingStrat.mp4?raw=true)
 
   **Notes**
   - Just be careful with the timing on the two first hooks. If you miss a hook, be ready to switch to triple jump to recover.

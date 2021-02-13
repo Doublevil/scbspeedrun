@@ -10,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW9_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW9_Strat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW9_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW9_Strat.mp4?raw=true)
 
   **Notes**
   - You can skip the intro cutscene by quitting out and re-entering the level.

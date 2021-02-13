@@ -10,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW2_PoolSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW2_PoolSkip.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW2_PoolSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW2_PoolSkip.mp4?raw=true)
 
   **Notes**
   - It looks harder than it is. Just make sure to use the D-Pad for this one.
@@ -23,5 +23,5 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW2_CasualStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW2_CasualStrat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW2_CasualStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW2_CasualStrat.mp4?raw=true)
 </details>

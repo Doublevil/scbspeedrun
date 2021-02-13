@@ -17,7 +17,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/TheQuartzCrystal_Lucky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/TheQuartzCrystal_Lucky.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/TheQuartzCrystal_Lucky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/TheQuartzCrystal_Lucky.mp4?raw=true)
 
   **Notes**
   - This is what happens when you get all 4 prisms in the normal dimension.
@@ -30,7 +30,7 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/TheQuartzCrystal_Unlucky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/TheQuartzCrystal_Unlucky.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/TheQuartzCrystal_Unlucky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/TheQuartzCrystal_Unlucky.mp4?raw=true)
 
   **Notes**
   - This is what happens when you get all 4 prisms in the other dimension.

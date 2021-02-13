@@ -10,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW1_CartMix.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW1_CartMix.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW1_CartMix.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW1_CartMix.mp4?raw=true)
 
   **Notes**
   - The kind of things that don't go as well as in training when you're doing a real run.

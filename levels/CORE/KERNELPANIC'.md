@@ -13,5 +13,5 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/KERNELPANIC'_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/KERNELPANIC'_Strat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/KERNELPANIC'_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/KERNELPANIC'_Strat.mp4?raw=true)
 </details>

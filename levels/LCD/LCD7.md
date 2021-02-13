@@ -10,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_TripleBlink.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_TripleBlink.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_TripleBlink.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_TripleBlink.mp4?raw=true)
 
   **Notes**
   - The triple blink part is a bit tight. You might want to go with the safe strat instead if you're not too confident with the ink cartridge.
@@ -23,7 +23,7 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_SafeStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_SafeStrat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_SafeStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_SafeStrat.mp4?raw=true)
 
   **Notes**
   - Easier than the triple blink and doesn't lose too much time.

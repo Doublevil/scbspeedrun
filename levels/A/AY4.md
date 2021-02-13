@@ -10,5 +10,5 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY4_DoubleGrappleStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY4_DoubleGrappleStrat.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY4_DoubleGrappleStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY4_DoubleGrappleStrat.mp4?raw=true)
 </details>

@@ -10,7 +10,7 @@
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE_CutsceneSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE_CutsceneSkip.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE_CutsceneSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE_CutsceneSkip.mp4?raw=true)
 </details>
 
 ---
@@ -20,5 +20,5 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE_Cutscene.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE_Cutscene.mp4)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE_Cutscene.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE_Cutscene.mp4?raw=true)
 </details>
