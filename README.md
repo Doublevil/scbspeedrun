@@ -1,5 +1,7 @@
 # Super Cable Boy Speedrun Guide
 
+![](https://github.com/Doublevil/scbspeedrun/blob/main/media/banner.jpg)
+
 This guide aims to provide you with every strat that's used to speedrun the game **Super Cable Boy**.
 
 You are welcome to [join our community on Discord](https://discord.gg/YGuqWdunSH). Don't hesitate to ask questions there if you have any.
