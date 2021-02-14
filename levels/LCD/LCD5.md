@@ -18,7 +18,7 @@
 </details>
 
 ---
-## Strat
+## Normal strat
 
 `Time` **00:05.000** `Difficulty` ★☆☆☆☆
 <details>
