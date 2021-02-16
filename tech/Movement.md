@@ -76,3 +76,28 @@ With the **Jump Cart**, the dash is one of the fastest movement in the game. How
 Now, doing the same with the **Voltage Cart** is even faster, mostly because you don't have to refresh it so often. This is **Voltage dashing**:
 
 ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_VoltageDash.webp)
+
+## Transition jump
+
+When loading in a level, the game usually makes you start a little bit above the ground. You also get control of Cable Boy at some point during the transition, while the pixelated transition effect is going on.
+
+There is something you can exploit if you time your inputs just right. After gaining control and before touching the ground, you can actually jump from the air, without the jump cart.
+
+However, depending on your timing and on the level, what it actually ends up doing may take several forms.
+- It might give you a normal, full height jump, which is nice when you need to climb stuff like in the Tower of Hanoi;
+- The game might be confused and think you are wall-jumping, for some reason, which gives you a jump that's faster horizontally but shorter in height;
+- Sometimes you can get both a normal jump AND a wall-jump right after, if you keep pressing jump.
+
+Here is what the latter looks like (we pause buffer here to clear the transition effect so that you can see what's going on, but it's not required of course):
+
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_StartWallJump.webp)
+
+The wall jump effect can be used in some levels to get a nice head start, for example here in C1:
+
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_StartLongJump.webp)
+
+You can see on the gamepad that we only just input Right and the jump button, and we get this long, low jump, that allows us to reach the cloud way faster than we would normally.
+
+All of this isn't really useful once you get the jump cart, as dashes will make whatever time gain you can get from an early jump almost insignificant.
+
+Now, transition jumps are a very small optimization you can do, as it may only saves a few frames. But once you know how it works, it just becomes something you can automatically try once, in the relevant levels, without too much thinking - it's hard to ever waste any time with it, if you don't get it, you just keep moving on.
