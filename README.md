@@ -53,7 +53,7 @@ There are several routes you can use. The Any% Main Levels route is the easiest,
 
 `Category` **Any%** `Difficulty` ★☆☆☆☆ `Best strats time` **00:25:39**
 
-Go through all of the main levels and beat The Glitch. Slower but easier than Any% Speedhack.
+Go through all of the main levels and beat The Glitch. Faster and easier than Any% Speedhack.
 
 - **Sleep Mode**: [HelloWorld](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/sl/HelloWorld.md) | [SL0](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/sl/SL0.md) | [SL1](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/sl/SL1.md) | [SL2](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/sl/SL2.md) | [SL3](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/sl/SL3.md) | [SL4](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/sl/SL4.md) | [SL5](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/sl/SL5.md) | [KernelPanic](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/sl/KernelPanic.md)
 - **Tower of Hanoi**: [T](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/T/T.md) | [T0](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/T/T0.md) | [T1](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/T/T1.md) | [T2](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/T/T2.md) | [T3](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/T/T3.md) | [T4](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/T/T4.md) | [T5](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/T/T5.md)
@@ -68,7 +68,7 @@ Go through all of the main levels and beat The Glitch. Slower but easier than An
 
 `Category` **Any%** `Difficulty` ★★☆☆☆ `Best strats time` **00:25:51**
 
-Get the speedhack as soon as possible and beat The Glitch. Faster but harder than Any% Main Levels.
+Get the speedhack as soon as possible and beat The Glitch. Harder and slower than Any% Main Levels.
 
 - **Sleep Mode**: [HelloWorld](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/HelloWorld.md) | [SL0](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/SL0.md) | [SL1](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/SL1.md) | [SL2](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/SL2.md) | [SL3](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/SL3.md) | [SL4](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/SL4.md) | [SL5](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/SL5.md) | [KernelPanic](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/KernelPanic.md)
 - **Tower of Hanoi**: [T](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/T/T.md) | [T0](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/T/T0.md) | [T1](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/T/T1.md) | [T2](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/T/T2.md) | [T3](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/T/T3.md) | [T4](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/T/T4.md) | [T5](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/T/T5.md)
