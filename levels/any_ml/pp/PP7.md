@@ -17,7 +17,7 @@
 </details>
 
 ---
-## Dash boost strat
+## Grapple boost strat
 
 `Time` **00:08.500** `Difficulty` ★★★☆☆
 <details>
