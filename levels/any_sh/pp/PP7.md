@@ -32,19 +32,6 @@
 </details>
 
 ---
-## Dash boost strat
-
-`Time` **00:08.100** `Difficulty` ★★★★☆
-<details>
-  <summary>Click to show/hide the strat</summary>
-
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP7_DashBoost.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP7_DashBoost.mp4?raw=true)
-
-  **Notes**
-  - The corner boost is required to reach the exit from above, but isn't very reliable at all. If you miss it (it should be obvious and leave you ample time to react), you can fallback to the casual strat.
-</details>
-
----
 ## Casual strat
 
 `Time` **00:09.500** `Difficulty` ★☆☆☆☆
