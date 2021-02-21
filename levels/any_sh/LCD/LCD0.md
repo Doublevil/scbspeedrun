@@ -1,0 +1,31 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
+# Any% Speedhack > Liquid Crystal Dimension > LCD0
+
+[< Back (LCD)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/LCD/LCD.md) | [Next (LCD1) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/LCD/LCD1.md)
+
+## Speedhack wall clip strat
+
+`Time` **00:02.550** `Difficulty` ★★★☆☆
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD0_S_WallClipStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD0_S_WallClipStrat.mp4?raw=true)
+
+  **Notes**
+  - LCD is where the speedhack shines, but also where it gets harder to control. Even in LCD0, it's easy to just be too late toggling back the ink cart and run into the ink glitch pillar at the start.
+  - See the ink cart tech page for more info on wall clipping.
+</details>
+
+---
+## Speedhack normal strat
+
+`Time` **00:02.900** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD0_S_NormalStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD0_S_NormalStrat.mp4?raw=true)
+
+  **Notes**
+  - LCD is where the speedhack shines, but also where it gets harder to control. Even in LCD0, it's easy to just be too late toggling back the ink cart and run into the ink glitch pillar at the start.
+</details>
