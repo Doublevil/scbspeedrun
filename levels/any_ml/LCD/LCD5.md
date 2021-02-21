@@ -7,7 +7,7 @@
 ## Death strat
 
 `Time` **00:04.000** `Difficulty` ★★★★☆
-<details>
+<details open>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD5_DeathStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD5_DeathStrat.mp4?raw=true)

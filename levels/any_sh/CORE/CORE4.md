@@ -10,7 +10,7 @@
 ## Speedhack strat
 
 `Time` **00:14.500** `Difficulty` ★★★☆☆
-<details>
+<details open>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE4_S_NormalStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE4_S_NormalStrat.mp4?raw=true)

@@ -7,7 +7,7 @@
 ## Wall clip strat
 
 `Time` **00:02.700** `Difficulty` ★★★★★
-<details>
+<details open>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD1_WallClip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD1_WallClip.mp4?raw=true)

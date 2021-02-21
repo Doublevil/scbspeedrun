@@ -7,7 +7,7 @@
 ## Strat
 
 `Time` **00:12.700** `Difficulty` ★☆☆☆☆
-<details>
+<details open>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/VoltageCart_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/VoltageCart_Strat.mp4?raw=true)

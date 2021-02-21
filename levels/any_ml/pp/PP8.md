@@ -7,7 +7,7 @@
 ## Skip strat
 
 `Time` **00:06.900** `Difficulty` ★★★☆☆
-<details>
+<details open>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP8_Skip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP8_Skip.mp4?raw=true)

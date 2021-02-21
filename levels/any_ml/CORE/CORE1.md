@@ -10,7 +10,7 @@
 ## Ink flight strat
 
 `Time` **00:18.000** `Difficulty` ★★★★★
-<details>
+<details open>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE1_InkStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE1_InkStrat.mp4?raw=true)

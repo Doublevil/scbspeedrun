@@ -7,7 +7,7 @@
 ## Strat
 
 `Time` **00:09.000** `Difficulty` ★☆☆☆☆
-<details>
+<details open>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/JumpCart_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/JumpCart_Strat.mp4?raw=true)

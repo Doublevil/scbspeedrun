@@ -10,7 +10,7 @@
 ## Full voltage strat
 
 `Time` **00:11.800** `Difficulty` ★★★★☆
-<details>
+<details open>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE2_FullVoltageStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE2_FullVoltageStrat.mp4?raw=true)

@@ -7,7 +7,7 @@
 ## Triple blink strat
 
 `Time` **00:11.300** `Difficulty` ★★★☆☆
-<details>
+<details open>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_TripleBlink.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_TripleBlink.mp4?raw=true)

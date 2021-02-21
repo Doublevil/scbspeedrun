@@ -10,7 +10,7 @@
 ## Cutscene strat
 
 `Time` **00:07.800** `Difficulty` ★☆☆☆☆
-<details>
+<details open>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD_CutsceneStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD_CutsceneStrat.mp4?raw=true)

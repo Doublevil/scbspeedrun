@@ -7,7 +7,7 @@
 ## Cutscene skip strat
 
 `Time` **00:08.200** `Difficulty` ★☆☆☆☆
-<details>
+<details open>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE0_NoCutscene.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE0_NoCutscene.mp4?raw=true)

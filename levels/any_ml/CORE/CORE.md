@@ -10,7 +10,7 @@
 ## Strat
 
 `Time` **00:09.500** `Difficulty` ★☆☆☆☆
-<details>
+<details open>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE_Strat.mp4?raw=true)
