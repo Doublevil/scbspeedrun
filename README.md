@@ -66,7 +66,7 @@ Go through all of the main levels and beat The Glitch. Slower but easier than An
 
 #### Any% Speedhack
 
-`Category` **Any%** `Difficulty` ★★☆☆☆ `Best strats time` **00:25:52**
+`Category` **Any%** `Difficulty` ★★☆☆☆ `Best strats time` **00:25:51**
 
 Get the speedhack as soon as possible and beat The Glitch. Faster but harder than Any% Main Levels.
 
