@@ -7,24 +7,14 @@
 **Notes**
 - We are taking the Disassembly exit.
 
-## GrapplingStrat
+## Strat
 
-`Time` **00:04.600** `Difficulty` ★★☆☆☆
+`Time` **00:04.300** `Difficulty` ★☆☆☆☆
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AC_GrapplingStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AC_GrapplingStrat.mp4?raw=true)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AC_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AC_Strat.mp4?raw=true)
 
   **Notes**
-  - Grappling here is just a little bit faster, but it's easy to mess it up.
-</details>
-
----
-## Walking strat
-
-`Time` **00:04.900** `Difficulty` ★☆☆☆☆
-<details>
-  <summary>Click to show/hide the strat</summary>
-
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AC_WalkingStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AC_WalkingStrat.mp4?raw=true)
+  - A reminder that jumping is faster than walking.
 </details>

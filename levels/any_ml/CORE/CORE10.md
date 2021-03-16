@@ -14,9 +14,6 @@
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE10_RiskyStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE10_RiskyStrat.mp4?raw=true)
-
-  **Notes**
-  - Definitely way too risky for a real run.
 </details>
 
 ---

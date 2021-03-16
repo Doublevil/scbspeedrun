@@ -16,7 +16,7 @@
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE9_RiskyStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE9_RiskyStrat.mp4?raw=true)
 
   **Notes**
-  - Probably way too risky for a real run.
+  - Probably too risky for a real run.
 </details>
 
 ---
