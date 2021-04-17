@@ -19,14 +19,14 @@
 ---
 ## Stair skip save strat
 
-`Time` **00:08.700** `Difficulty` ★★★☆☆
+`Time` **00:08.700** `Difficulty` ★★☆☆☆
 <details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD9_StairSkipSave.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD9_StairSkipSave.mp4?raw=true)
 
   **Notes**
-  - Use this one if you can't reach the platform to get the full stair skip.
+  - Use this one if you can't reach the platform to get the full stair skip, or if you don't feel confident enough to get the timing of the stair skip right.
 </details>
 
 ---
