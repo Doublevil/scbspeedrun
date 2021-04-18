@@ -11,8 +11,8 @@ You can see the leaderboard and watch our recorded runs [on speedrun.com](https:
 ## Getting started
 
 If you're looking to get started in Super Cable Boy speedrunning (welcome!), here are some thoughts:
-- In the settings menu, you will find that you can enable the timer, and turn off screen shaking. It is also advised to turn on simplified graphics, to have a clearer view of what's going on.
-- The timer starts when entering the map on a new game and ends when the loading bar is complete after the final boss.
+- In the settings menu, you will find that you can enable the timer, skip cutscenes, and turn off screen shaking. It is also advised to turn on simplified graphics, to have a clearer view of what's going on.
+- The timer starts when entering the map on a new game and ends when the loading bar is complete after the final boss. We use the in-game timer, because it removes loading times.
 - To get a general idea of how a run goes, the best thing to do is to watch one of our registered records on speedrun.com.
 - As it is often the case in speedrunning in general, practicing the harder levels first is the best way to improve your time when you're starting. If you don't know where to start, practice the safe strats on the Core levels.
 - Your run doesn't need to be perfect! You are expected to die a few times in your run, so don't worry too much about it, just have fun and enjoy the satisfaction of improving your time as you're getting better and better.
@@ -51,7 +51,7 @@ There are several routes you can use. The Any% Main Levels route is the easiest,
 
 #### Any% Main Levels
 
-`Category` **Any%** `Difficulty` ★☆☆☆☆ `Best strats time` **00:25:34**
+`Category` **Any%** `Difficulty` ★☆☆☆☆ `Best strats time` **00:25:31**
 
 Go through all of the main levels and beat The Glitch. Faster and easier than Any% Speedhack.
 
@@ -66,7 +66,7 @@ Go through all of the main levels and beat The Glitch. Faster and easier than An
 
 #### Any% Speedhack
 
-`Category` **Any%** `Difficulty` ★★☆☆☆ `Best strats time` **00:25:48**
+`Category` **Any%** `Difficulty` ★★☆☆☆ `Best strats time` **00:25:45**
 
 Get the speedhack as soon as possible and beat The Glitch. Harder and slower than Any% Main Levels.
 
@@ -104,6 +104,6 @@ This section lists the terms used in this guide and that are not obvious. This i
 
 ## Credits
 
-This guide was made by Doublevil, and uses strats developed and shared by members of the community, including M4T, Ayden., Boney, and Doublevil. This is a group effort, and sharing and improving on each other's strats is what makes speedrunning so cool. Thank you all.
+This guide was made by Doublevil, and uses strats developed and shared by members of the community, including M4T, Ayden., Boney, Loppra and Doublevil. This is a group effort, and sharing and improving on each other's strats is what makes speedrunning so cool. Thank you all.
 
 And thank you Sørb for making such a great game.

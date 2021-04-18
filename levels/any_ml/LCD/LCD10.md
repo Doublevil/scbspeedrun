@@ -7,10 +7,23 @@
 **Notes**
 - Arguably the worst level in the game.
 
-## Strat
+## Optimized strat
+
+`Time` **00:16.000** `Difficulty` ★★★★★
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD10_OptimizedStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD10_OptimizedStrat.mp4?raw=true)
+
+  **Notes**
+  - It's really precise. If you're not entirely used to toggling back and forth between dash and ink, you might want to go for the safer strat.
+</details>
+
+---
+## Safer strat
 
 `Time` **00:18.350** `Difficulty` ★★★☆☆
-<details open>
+<details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD10_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD10_Strat.mp4?raw=true)
