@@ -23,6 +23,7 @@ This section contains links to individual pages detailing speedrunning technique
 - [Manipulating the cable](https://github.com/Doublevil/scbspeedrun/blob/main/tech/CableManipulation.md)
 - [In-depth movement](https://github.com/Doublevil/scbspeedrun/blob/main/tech/Movement.md)
 - [Cable cart techs](https://github.com/Doublevil/scbspeedrun/blob/main/tech/CableCart.md)
+- [Jump cart techs](https://github.com/Doublevil/scbspeedrun/blob/main/tech/JumpCart.md)
 - [Ink cart techs](https://github.com/Doublevil/scbspeedrun/blob/main/tech/InkCart.md)
 - [Voltage cart techs](https://github.com/Doublevil/scbspeedrun/blob/main/tech/VoltageCart.md)
 
