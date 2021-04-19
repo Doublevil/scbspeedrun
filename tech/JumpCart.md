@@ -8,7 +8,7 @@ At the end of a dash, there's a moment where your velocity is greatly reduced in
 
 Switching to another cartridge right before that moment prevents that, allowing you to carry dash speed a little bit further. This is the swap dash.
 
-![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_InkDoubleJump.webp)
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_SwapDash.webp)
 
 As demonstrated here, you can use it to reach higher. But it works in any direction. However, it's very precise. Missing the timing just a little bit means you get only a slight boost, or no boost at all.
 
