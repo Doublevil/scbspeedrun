@@ -32,13 +32,13 @@
 </details>
 
 ---
-## Grapple boost strat
+## SD storage strat
 
 `Time` **00:08.300** `Difficulty` ★★★★★
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP7_GrappleBoost.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP7_GrappleBoost.mp4?raw=true)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP7_SDStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP7_SDStrat.mp4?raw=true)
 
   **Notes**
   - This strat uses SD Storage. You can learn more about it in the "Jump cart techs" section of this guide.
