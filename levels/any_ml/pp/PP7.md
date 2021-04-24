@@ -19,6 +19,20 @@
 ---
 ## Grapple boost strat
 
+`Time` **00:08.300** `Difficulty` ★★★★★
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP7_GrappleBoost.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP7_GrappleBoost.mp4?raw=true)
+
+  **Notes**
+  - This strat uses SD Storage. You can learn more about it in the "Jump cart techs" section of this guide.
+  - This strat is a bit of a joke, as it's really super hard and risky, and isn't even the fastest one. But it's fun to fly over the entire level.
+</details>
+
+---
+## Grapple boost strat
+
 `Time` **00:08.500** `Difficulty` ★★★☆☆
 <details>
   <summary>Click to show/hide the strat</summary>

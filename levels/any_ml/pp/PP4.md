@@ -4,10 +4,24 @@
 
 [< Back (PP3)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/pp/PP3.md) | [Next (PP5) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/pp/PP5.md)
 
+## SD storage strat
+
+`Time` **00:07.200** `Difficulty` ★★★★★
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP4_SDStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP4_SDStrat.mp4?raw=true)
+
+  **Notes**
+  - This strat uses SD Storage. You can learn more about it in the "Jump cart techs" section of this guide.
+  - Be careful not to lose too much height on your swap dashes.
+</details>
+
+---
 ## Hooking strat
 
 `Time` **00:08.400** `Difficulty` ★★☆☆☆
-<details open>
+<details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP4_HookingStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP4_HookingStrat.mp4?raw=true)

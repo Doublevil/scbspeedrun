@@ -12,7 +12,19 @@ Switching to another cartridge right before that moment prevents that, allowing 
 
 As demonstrated here, you can use it to reach higher. But it works in any direction. However, it's very precise. Missing the timing just a little bit means you get only a slight boost, or no boost at all.
 
-The swap dash isn't required in any current strat, but using it well might save you some time.
+## Swap dash storage (SD Storage)
+
+Now, the swap dash also does something more surprising: it stores the remaining length of the dash and allows us to re-use the dash for that reduced duration.
+
+To explain it further: think of the dash frames as fuel. In theory, the game allows you to dash as long as you still have some fuel left. However, usually when you dash, you use up all of your fuel because there's nothing to stop the dash. After the dash, you have no fuel left, so that's why you can't dash a second time. And then of course touching a wall or the ground refills your fuel entirely. Now, switching to another cart interrupts the dash, which stops fuel consumption. So then you're in the air, and you have some fuel left, which means you can dash again. If you manage to save some fuel in the second dash, you can even do a third one, then a fourth, etc. You just need to be quick enough to interrupt the dash as soon as possible.
+
+We can exploit that to negate gravity and gain more height by quickly chaining swap dashes together. This is what SD Storage looks like:
+
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_SwapDashStorage.webp)
+
+This is a very hard technique to master, and while it looks impressive and allows us to do some eye-catching strats, it's almost always risky and does not save that much time. You should only learn it when you are already doing solid runs and are looking to save a few more seconds.
+
+The key to execute SD Storage is to switch to another cart as soon as possible after dashing, so that you burn as few dash frames as possible at every swap dash. When it's almost used up, you can get an additional speed boost by swap dashing during the last few frames of the dash, as explained in the Swap dash paragraph.
 
 ## Ink double jump
 

@@ -7,10 +7,23 @@
 **Notes**
 - We could skip the cutscene by using both the hook and the triple jump, but it's slower than just taking the cutscene.
 
-## Speedhack strat
+## Speedhack cutscene strat
+
+`Time` **00:06.900** `Difficulty` ★★★★☆
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP0_S_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP0_S_Strat.mp4?raw=true)
+
+  **Notes**
+  - This strat uses SD Storage. You can learn more about it in the "Jump cart techs" section of this guide.
+</details>
+
+---
+## Speedhack cutscene strat
 
 `Time` **00:07.200** `Difficulty` ★☆☆☆☆
-<details open>
+<details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP0_S_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP0_S_Strat.mp4?raw=true)

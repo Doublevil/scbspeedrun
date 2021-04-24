@@ -4,10 +4,23 @@
 
 [< Back (LCD11)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/LCD/LCD11.md) | [Next (LCD13) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/LCD/LCD13.md)
 
+## SD storage strat
+
+`Time` **00:04.700** `Difficulty` ★★★★★
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_SDStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_SDStrat.mp4?raw=true)
+
+  **Notes**
+  - This strat uses SD Storage. You can learn more about it in the "Jump cart techs" section of this guide.
+</details>
+
+---
 ## Wall skip strat
 
 `Time` **00:06.800** `Difficulty` ★★★★☆
-<details open>
+<details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_WallSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_WallSkip.mp4?raw=true)

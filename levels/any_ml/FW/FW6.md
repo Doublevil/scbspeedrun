@@ -15,3 +15,17 @@
   **Notes**
   - Obviously you don't have to take that shortcut at the start, it barely saves a second.
 </details>
+
+---
+## HYPE strat
+
+`Time` **00:15.400** `Difficulty` ★★★★★
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW6_HypeStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW6_HypeStrat.mp4?raw=true)
+
+  **Notes**
+  - This strat uses SD Storage. You can learn more about it in the "Jump cart techs" section of this guide.
+  - It's exactly as fast as the other strat, but have you seen how cool it is?!
+</details>
