@@ -52,7 +52,7 @@ There are several routes you can use. The Any% Main Levels route is the easiest,
 
 #### Any% Main Levels
 
-`Category` **Any%** `Difficulty` ★☆☆☆☆ `Best strats time` **00:25:16**
+`Category` **Any%** `Difficulty` ★☆☆☆☆ `Best strats time` **00:25:14**
 
 Go through all of the main levels and beat The Glitch. Faster and easier than Any% Speedhack.
 
