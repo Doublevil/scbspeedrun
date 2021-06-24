@@ -1,7 +1,5 @@
-state("SuperCableBoy", "v1.0.4")
+state("Super Cable Boy", "v1.0.6")
 {
-    long clockFrames : "UnityPlayer.dll", 0x017CD668, 0x1F0, 0x1E8, 0x4E0, 0xDB8, 0xB8, 0xD0, 0x8, 0x68;
-	bool freezePlaytimeTimer : "UnityPlayer.dll", 0x017CD668, 0x1F0, 0x1E8, 0x4E0, 0x500, 0, 0xD0, 8, 0x68;
 }
 
 // Notes:
@@ -19,6 +17,8 @@ state("SuperCableBoy", "v1.0.4")
 startup {
     vars.metaSceneManagerScanTarget = new SigScanTarget(0,
 	    "41 FF D3 85 C0 74 24 48 B8 ?? ?? ?? ?? ?? ?? ?? ?? 48 8B 00 48 8B C8 83 38 00 48 8D 6D 00 49 BB ?? ?? ?? ?? ?? ?? ?? ?? 41 FF D3 48 8B 75 F8 48 8D 65 00 5D C3");
+	vars.clockFramesScanTarget = new SigScanTarget(0, "0F B6 40 18 85 C0 75 1E 48 B8 ?? ?? ?? ?? ?? ?? ?? ?? 48 8B 08 48 83 C1 01 48 B8 ?? ?? ?? ?? ?? ?? ?? ?? 48 89 08 48 83 C4 08 C3");
+	vars.freezePlaytimeTimerScanTarget = new SigScanTarget(0, "41 FF D3 48 89 45 A0 48 B8 ?? ?? ?? ?? ?? ?? ?? ?? 0F B6 00 85 C0 ?? ?? ?? ?? ?? ?? 48 8B 4E 38 48 BA");
 	vars.metaSceneManagerStaticInstancePtr = IntPtr.Zero;
 	vars.metaSceneManagerFound = false;
 	
@@ -177,24 +177,34 @@ init
 {
 	print("Initializing Super Cable Boy Auto Split");
     refreshRate = 60;
-    version = "v1.0.4";
+    version = "v1.0.6";
 	
 	vars.metaSceneManagerStaticInstancePtr = IntPtr.Zero;
 	vars.metaSceneManagerFound = false;
 	
+	vars.freezePlaytimeTimer = null;
+	
 	// Find some method code that can get us to the MetaSceneManager.instance static field address
 	var metaSceneManagerGetInstanceMethodPtr = IntPtr.Zero;
+	var clockFramesCodePtr = IntPtr.Zero;
 	foreach (var page in game.MemoryPages(true).Reverse()) {
 		var scanner = new SignatureScanner(game, page.BaseAddress, (int)page.RegionSize);
-		metaSceneManagerGetInstanceMethodPtr = scanner.Scan(vars.metaSceneManagerScanTarget);
-		if (metaSceneManagerGetInstanceMethodPtr != IntPtr.Zero)
+		
+		if (metaSceneManagerGetInstanceMethodPtr == IntPtr.Zero)
+			metaSceneManagerGetInstanceMethodPtr = scanner.Scan(vars.metaSceneManagerScanTarget);
+		
+		if (clockFramesCodePtr == IntPtr.Zero)
+			clockFramesCodePtr = scanner.Scan(vars.clockFramesScanTarget);
+		
+		// If we have found all targets, don't bother scanning more memory pages
+		if (metaSceneManagerGetInstanceMethodPtr != IntPtr.Zero
+		    && clockFramesCodePtr != IntPtr.Zero)
 		    break;
     }
 	
-	// From there, find the reference to the static instance address,
+	// From there, find the reference to the static instance address of the meta scene manager,
 	// which is 9 bytes after the start of the code signature.
 	vars.metaSceneManagerStaticInstancePtr = game.ReadValue<IntPtr>(metaSceneManagerGetInstanceMethodPtr + 0x9);
-	
 	if (vars.metaSceneManagerStaticInstancePtr == IntPtr.Zero) {
 		// We could not localize the pointer. This might be due to the game
 		// still loading stuff in.
@@ -204,10 +214,21 @@ init
         Thread.Sleep(1000);
         throw new Exception("Could not localize the MetaSceneManager pointer (yet). We will be re-trying.");
     }
+	print("MetaSceneManager.instance is at " + vars.metaSceneManagerStaticInstancePtr.ToString("X"));
 	
-	print("MetaSceneManager.instance is " + vars.metaSceneManagerStaticInstancePtr.ToString("X"));
+	// Now find the reference to the static address of the timer ellapsedFrames field,
+	// which is 10 (0xA) bytes after the start of the code signature.
+	var ellapsedFramesPtr = game.ReadValue<IntPtr>(clockFramesCodePtr + 0xA);
+	if (ellapsedFramesPtr == IntPtr.Zero) {
+		// See ugly workaround comment above.
+        Thread.Sleep(1000);
+        throw new Exception("Could not localize the ellapsedFrames pointer (yet). We will be re-trying.");
+    }
+	print("ellapsedFrames is at " + ellapsedFramesPtr.ToString("X"));
 	
 	vars.watchers = new MemoryWatcherList();
+	vars.ellapsedFrames = new MemoryWatcher<int>(ellapsedFramesPtr);
+	vars.watchers.Add(vars.ellapsedFrames);
 	
 	vars.alreadySplitOnGlitchEnd = false;
 	vars.alreadySplitOnEofEnd = false;
@@ -233,7 +254,7 @@ update {
 			// The pointer to the instance has been found.
 			// Now we can start observing the interesting values in there.
 			print("The actual instance of MetaSceneManager is " + instancePtr.ToString("X"));
-			vars.currentUnityScene = new MemoryWatcher<int>(instancePtr + 0x48);
+			vars.currentUnityScene = new MemoryWatcher<int>(instancePtr + 0x50);
 			vars.currentLevelEntry = new StringWatcher(new DeepPointer(instancePtr + 0x20, 0x10, 0x14), ReadStringType.UTF16, 40);
 			vars.watchers.Add(vars.currentUnityScene);
 			vars.watchers.Add(vars.currentLevelEntry);
@@ -254,12 +275,33 @@ update {
 	}
 	
 	// Reset stuff when starting a run
-	if (current.clockFrames <= 10 && (vars.currentUnityScene.Current == -1 || vars.currentUnityScene.Current == 4))
+	if (vars.ellapsedFrames.Current <= 10 && (vars.currentUnityScene.Current == -1 || vars.currentUnityScene.Current == 4))
 	{
 	    print("Resetting run vars");
 		vars.splitPointList = new List<string>();
 		vars.alreadySplitOnGlitchEnd = false;
 		vars.alreadySplitOnEofEnd = false;
+	}
+	
+	// Try to find the freezePlaytime pointer (it's only initialized after the game starts...)
+	if (vars.freezePlaytimeTimer == null && vars.ellapsedFrames.Current > 10
+	   && (vars.currentUnityScene.Current == -1 || vars.currentUnityScene.Current == 4))
+	{
+		var freezePlaytimeCodePtr = IntPtr.Zero;
+		foreach (var page in game.MemoryPages(true).Reverse()) {
+			var scanner = new SignatureScanner(game, page.BaseAddress, (int)page.RegionSize);
+			freezePlaytimeCodePtr = scanner.Scan(vars.freezePlaytimeTimerScanTarget);
+			if (freezePlaytimeCodePtr != IntPtr.Zero)
+				break;
+		}
+		// Now find the reference to the static address of the timer freezePlaytimeTimer field,
+		// which is 9 bytes after the start of the code signature.
+		var freezePlaytimePtr = game.ReadValue<IntPtr>(freezePlaytimeCodePtr + 0x9);
+		if (freezePlaytimePtr != IntPtr.Zero) {
+			print("freezePlaytimeTimer is at " + freezePlaytimePtr.ToString("X"));
+			vars.freezePlaytimeTimer = new MemoryWatcher<byte>(freezePlaytimePtr);
+			vars.watchers.Add(vars.freezePlaytimeTimer);
+		}
 	}
 }
 
@@ -269,7 +311,7 @@ start {
 	// We need to have everything initialized
 	return vars.metaSceneManagerFound == true
 		// We need the clock to be under a certain threshold (say, under 10 frames)
-		&& current.clockFrames <= 10
+		&& vars.ellapsedFrames.Current <= 10
 		// We need to be either on the map or in a level, otherwise the timer would start in the main menu.
 		&& (vars.currentUnityScene.Current == -1 || vars.currentUnityScene.Current == 4);
 }
@@ -291,7 +333,7 @@ split {
 	// Glitch ending split: split when the timer freezes in the GlitchFight level
 	if (!vars.alreadySplitOnGlitchEnd
 	    && settings["GlitchFight_END"]
-	    && current.freezePlaytimeTimer
+	    && (vars.freezePlaytimeTimer != null && vars.freezePlaytimeTimer.Current == 1)
 		&& vars.currentLevelEntry.Current == "GlitchFight")
 	{
 		print("Splitting on Glitch ending! Congrats!");
@@ -302,7 +344,7 @@ split {
 	// EoF ending split: split when the timer freezes in the EoF level
 	if (!vars.alreadySplitOnEofEnd
 	    && settings["diskspaceend_END"]
-	    && current.freezePlaytimeTimer
+	    && (vars.freezePlaytimeTimer != null && vars.freezePlaytimeTimer.Current == 1)
 		&& vars.currentLevelEntry.Current == "diskspaceend")
 	{
 		print("Splitting on EoF ending! Much congrats!");
@@ -324,7 +366,7 @@ reset {
 // When we return true, the timer is suspended.
 isLoading {
 	// If the in-game clock didn't move on this tick, consider the game paused
-	return current.clockFrames == old.clockFrames;
+	return vars.ellapsedFrames.Current == vars.ellapsedFrames.Old;
 }
 
 // Called every tick when the timer runs.
@@ -332,5 +374,5 @@ isLoading {
 gameTime {
 	// The in-game timer just counts frames, assuming 60FPS.
 	// Just divide by 60 and you get the seconds.
-	return TimeSpan.FromSeconds((float)current.clockFrames/60);
+	return TimeSpan.FromSeconds((float)vars.ellapsedFrames.Current/60);
 }
