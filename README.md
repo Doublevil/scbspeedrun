@@ -52,7 +52,7 @@ There are several routes you can use. The Any% Main Levels route is the easiest,
 
 #### Any% Main Levels
 
-`Category` **Any%** `Difficulty` ★☆☆☆☆ `Best strats time` **00:25:14**
+`Category` **Any%** `Difficulty` ★☆☆☆☆ `Best strats time` **00:25:10**
 
 Go through all of the main levels and beat The Glitch. Faster and easier than Any% Speedhack.
 
@@ -67,7 +67,7 @@ Go through all of the main levels and beat The Glitch. Faster and easier than An
 
 #### Any% Speedhack
 
-`Category` **Any%** `Difficulty` ★★☆☆☆ `Best strats time` **00:25:38**
+`Category` **Any%** `Difficulty` ★★☆☆☆ `Best strats time` **00:25:36**
 
 Get the speedhack as soon as possible and beat The Glitch. Harder and slower than Any% Main Levels.
 
@@ -105,6 +105,6 @@ This section lists the terms used in this guide and that are not obvious. This i
 
 ## Credits
 
-This guide was made by Doublevil, and uses strats developed and shared by members of the community, including M4T, Ayden., Boney, Loppra and Doublevil. This is a group effort, and sharing and improving on each other's strats is what makes speedrunning so cool. Thank you all.
+This guide was made by Doublevil, and uses strats developed and shared by members of the community, including Sany, Ayden., Boney, Loppra and Doublevil. This is a group effort, and sharing and improving on each other's strats is what makes speedrunning so cool. Thank you all.
 
 And thank you Sørb for making such a great game.
