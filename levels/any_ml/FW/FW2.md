@@ -4,10 +4,20 @@
 
 [< Back (FW1)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/FW/FW1.md) | [Next (FW3) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/FW/FW3.md)
 
-## Pool skip strat
+## Top skip strat
+
+`Time` **00:11.100** `Difficulty` ★★★☆☆
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW2_TopSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW2_TopSkip.mp4?raw=true)
+</details>
+
+---
+## Bottom skip strat
 
 `Time` **00:12.600** `Difficulty` ★★★☆☆
-<details open>
+<details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW2_PoolSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW2_PoolSkip.mp4?raw=true)

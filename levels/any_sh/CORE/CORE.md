@@ -4,9 +4,6 @@
 
 [< Back (TheBlacklister)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/FW/TheBlacklister.md) | [Next (CORE0) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/CORE/CORE0.md)
 
-**Notes**
-- You can skip the cutscene by going over the messageboxes but it won't save time.
-
 ## Speedhack strat
 
 `Time` **00:08.500** `Difficulty` ★☆☆☆☆

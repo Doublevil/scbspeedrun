@@ -6,12 +6,13 @@
 
 ## Strat
 
-`Time` **00:03.800** `Difficulty` ★☆☆☆☆
+`Time` **00:02.600** `Difficulty` ★☆☆☆☆
 <details open>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCDTransition_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCDTransition_Strat.mp4?raw=true)
 
   **Notes**
-  - You can quit out when the screen is black after falling down. The game is actually loading stuff during this transition though, and loading will prevent you to pause. So the pause timing depends on your machine.
+  - You can quit out right after hearing the loud noise when the bridge starts to collapse. The audio cue is easier than the visual cue.
+  - If you want to check out the audio cue, don't forget that you can download the video by clicking the animation.
 </details>
