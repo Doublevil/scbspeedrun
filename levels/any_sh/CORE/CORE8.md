@@ -9,14 +9,15 @@
 
 ## Risky strat
 
-`Time` **00:30.400** `Difficulty` ★★★★☆
+`Time` **00:26.100** `Difficulty` ★★★★★
 <details open>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE8_RiskyStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE8_RiskyStrat.mp4?raw=true)
 
   **Notes**
-  - Not a too risky one either. The main difference is using the jump cart in the middle section to skip having to go up and hug some wall to refresh the voltage cart.
+  - Very risky as a whole, but you can use only parts of the strat to improve your time a little bit.
+  - Using the jump cart in the middle section allows us to skip having to go up and hug some wall to refresh the voltage cart. It shouldn't be too risky as long as you use the dash early.
 </details>
 
 ---

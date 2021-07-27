@@ -13,6 +13,7 @@
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP5_SDStorage.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP5_SDStorage.mp4?raw=true)
 
   **Notes**
+  - This strat uses SD Storage. You can learn more about it in the "Jump cart techs" section of this guide.
   - Some of these walls are pretty hard to consistently grab. Be careful with your positioning.
 </details>
 
