@@ -7,10 +7,23 @@
 **Notes**
 - Because the Core levels are so long and quite difficult, and also are the end of the run, you generally should try to reduce risk instead of optimizing speed. On these levels, trying to save 3 seconds can quickly end up costing you 30 seconds and killing your run.
 
+## Stupid strat
+
+`Time` **00:11.500** `Difficulty` ★★★★★★
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE4_StupidStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE4_StupidStrat.mp4?raw=true)
+
+  **Notes**
+  - This is mostly here for fun. It's way too hard to try in a real run.
+</details>
+
+---
 ## Speedhack strat
 
 `Time` **00:14.500** `Difficulty` ★★★☆☆
-<details open>
+<details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE4_S_NormalStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE4_S_NormalStrat.mp4?raw=true)
