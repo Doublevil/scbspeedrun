@@ -17,7 +17,7 @@
 </details>
 
 ---
-## HYPE strat
+## Hole In One strat
 
 `Time` **00:15.400** `Difficulty` ★★★★★
 <details>
@@ -28,4 +28,6 @@
   **Notes**
   - This strat uses SD Storage. You can learn more about it in the "Jump cart techs" section of this guide.
   - It's exactly as fast as the other strat, but have you seen how cool it is?!
+  - Also, it's as hard as it gets to get enough jumps to reach the goal.
+  - The name comes from Bobson's commentary in RTA in Japan Summer 2021.
 </details>
