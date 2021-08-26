@@ -74,4 +74,6 @@ If you use a dash or voltage downwards right after the cloud makes you jump, you
 
 ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Cloud_DashStop.webp)
 
+Note that you still cannot jump while standing on the cloud. You can however dash away or use the voltage cart.
+
 This might be useful when you really don't want to bounce, or to stabilize before one of the harder bounces in Hacked Cloud.
