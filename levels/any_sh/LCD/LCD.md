@@ -5,7 +5,7 @@
 [< Back (InkCart)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/pp/InkCart.md) | [Next (LCD0) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/LCD/LCD0.md)
 
 **Notes**
-- This is the start of the LCD world, which of course makes heavy use of the ink cartridge. If you are having trouble toggling the ink cartridge at the right times, try practicing LCD10 over and over again.
+- This is the start of the LCD world, which of course makes heavy use of the ink cartridge. If you are having trouble toggling the ink cartridge at the right times, try practicing stages like LCD10.
 
 ## Speedhack cutscene skip strat
 

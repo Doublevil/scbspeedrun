@@ -50,7 +50,7 @@
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_CrazyWallClip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_CrazyWallClip.mp4?raw=true)
 
   **Notes**
-  - This one is just insane.
+  - This one is just dumb.
   - There are 2 wall clips in that strat (the one on the first jump and the ceiling one).
   - The idea is to regen the dashes to be able to skip part of the level.
   - The ceiling wall clip is completely inconsistent.
@@ -71,7 +71,7 @@
 </details>
 
 ---
-## I-hate-ink strat
+## No ink strat
 
 `Time` **00:13.800** `Difficulty` ★☆☆☆☆
 <details>

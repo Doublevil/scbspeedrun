@@ -4,7 +4,7 @@
 
 [< Back (AY3)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/A/AY3.md) | [Next (AY5) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/A/AY5.md)
 
-## Double-grapple strat
+## Semi cycle skip strat
 
 `Time` **00:16.000** `Difficulty` ★★★☆☆
 <details open>

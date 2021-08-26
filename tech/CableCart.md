@@ -12,9 +12,9 @@ Once you get the voltage cart, it's usually pretty fast to just voltage dash to 
 
 ## Grab-hopping
 
-A very useful move with the hook is to jump immediately after grabbing. This move is easy to do and will preserve your jumping horizontal speed, while allowing you to move around obstacles in the most reliable way.
+A very useful move with the cable is to jump immediately after grabbing. This move is easy to do and will preserve your jumping horizontal speed, while allowing you to move around obstacles in the most reliable way.
 
-It's also by far the fastest way to move vertically with the hook.
+It's also by far the fastest way to move vertically with the cable.
 
 ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_CableGrabHopping.webp)
 
@@ -30,7 +30,7 @@ This is used for a few strats. Here's how Assembly > A7 uses this technique:
 
 ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_CableHighJump.webp)
 
-## Fast movement with the hook
+## Fast movement with the cable
 
 Depending on the way you hook, you could kill your momentum and have to build it up again by swinging slowly.
 
@@ -41,7 +41,7 @@ When you don't have any better way of moving around than grabbing walls/ceilings
 - Even optimized swings are only very slightly faster than grab-hopping, so it really doesn't matter that much.
 - You can sometimes get bonus speed from the way the cable bounces when you grab from far away, but it's very inconsistent.
 
-For reference, the strat for AY0 is pure hook optimization and uses pretty much all of the hook's speed techs:
+For reference, the strat for AY0 is pure hook optimization and uses pretty much all of the cable speed techs:
 
 ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY0_Strat.webp)
 
@@ -49,7 +49,7 @@ It starts with grab-hopping because swings, although faster, have a more horizon
 
 ## Cable clipping
 
-The Cable Cart also allows us to clip through geometry when there are moving objects that we can get to overlap with the hook.
+The Cable Cart also allows us to clip through geometry when there are moving objects that we can get to overlap with the end of the cable.
 
 So far, the only useful cable clipping strat we've found is the one that skips the Disassembler fight.
 
@@ -57,7 +57,7 @@ So far, the only useful cable clipping strat we've found is the one that skips t
 
 Here, the hand of The Disassembler moves over the cable while we are hooked, which makes the physics engine react in an interesting way, moving Cable Boy around at very high speeds, which means we get to zip through the wall.
 
-We can do similar (but useless) cable clips with the moving platforms in the AY levels, or with the pistons in the AX levels, although they're not part of the any% route.
+We can do similar cable clips with the moving platforms in the AY levels, or with the pistons in the AX levels.
 
 ## Quirks
 

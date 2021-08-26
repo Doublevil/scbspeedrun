@@ -13,5 +13,5 @@
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/InkCart_S_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/InkCart_S_Strat.mp4?raw=true)
 
   **Notes**
-  - Unlike the two first cartridge levels, we actually have to finish that one.
+  - Unlike the two first cartridge levels, we actually have to finish that one to progress further.
 </details>

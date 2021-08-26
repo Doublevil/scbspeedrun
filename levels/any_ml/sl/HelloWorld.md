@@ -5,7 +5,7 @@
 [Next (SL0) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/sl/SL0.md)
 
 **Notes**
-- Using a save manipulation to entirely skip the first cutscene is apparently accepted but won't be shown here.
+- Using a save manipulation before the start of the run to entirely skip the first two cutscenes is apparently accepted but won't be shown here.
 
 ## Strat
 

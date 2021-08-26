@@ -4,9 +4,6 @@
 
 [< Back (AC')](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/A/AC'.md) | [Next (PP1) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/pp/PP1.md)
 
-**Notes**
-- We could skip the cutscene by using both the hook and the triple jump, but it's slower than just taking the cutscene.
-
 ## SD Storage strat
 
 `Time` **00:07.500** `Difficulty` ★★★★☆

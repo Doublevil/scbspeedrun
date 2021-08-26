@@ -30,7 +30,7 @@ For boosting, the ink wall has to be connected to a solid surface, either on the
 
 Wall clipping from these setups will sometimes boost you out of the ink wall at high speed. Which is good, because we happen to like speed.
 
-In any case, this will always send you flying up and slightly to the left. There is no way that we know of that you're going to be boosted in any other direction.
+In any case, this will mostly send you flying up and slightly to the left. You can sometimes get a clip that ejects you to the right if you do it without stopping, but it's even less consistent.
 
 These boosts are inconsistent because your positioning needs to be very precise, so you might be better off avoiding them, but there's no denying that they are fast.
 

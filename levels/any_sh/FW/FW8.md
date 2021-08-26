@@ -1,6 +1,6 @@
 [Go back to the home page](https://github.com/Doublevil/scbspeedrun)
 
-# Any% Speedhack > Firewall > FW8
+# Any% Speedhack > The Firewall > FW8
 
 [< Back (FW7)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/FW/FW7.md) | [Next (FW9) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/FW/FW9.md)
 

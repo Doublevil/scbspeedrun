@@ -2,7 +2,7 @@
 
 # Any% Speedhack > The Assembly > JumpCart
 
-[< Back (TheDisassembler)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/A/TheDisassembler.md) | [Next (A0) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/A/A0.md)
+[< Back (TheDisassembler)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/A/TheDisassembler.md) | [Next (A0') >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/A/A0'.md)
 
 ## Speedhack strat
 
@@ -13,5 +13,5 @@
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/JumpCart_S_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/JumpCart_S_Strat.mp4?raw=true)
 
   **Notes**
-  - We quit out right as the background changes to go back to A0 on our way to the Power Plants.
+  - Once again, we quit out right as the background changes to continue to the Power Plants.
 </details>

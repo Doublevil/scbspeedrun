@@ -6,7 +6,7 @@
 
 ## Triple blink strat
 
-`Time` **00:11.300** `Difficulty` ★★★☆☆
+`Time` **00:11.300** `Difficulty` ★★☆☆☆
 <details open>
   <summary>Click to show/hide the strat</summary>
 
@@ -19,7 +19,7 @@
 ---
 ## Safe strat
 
-`Time` **00:11.900** `Difficulty` ★★☆☆☆
+`Time` **00:11.900** `Difficulty` ★☆☆☆☆
 <details>
   <summary>Click to show/hide the strat</summary>
 

@@ -2,7 +2,7 @@
 
 # Any% Speedhack > The Assembly > P
 
-[< Back (A0')](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/A/A0'.md) | [Next (P0) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/P/P0.md)
+[< Back (A0)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/A/A0.md) | [Next (P0) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/P/P0.md)
 
 ## Strat
 

@@ -9,7 +9,7 @@
 
 ## Risky strat
 
-`Time` **00:19.750** `Difficulty` ★★★★☆
+`Time` **00:19.750** `Difficulty` ★★★☆☆
 <details open>
   <summary>Click to show/hide the strat</summary>
 
@@ -22,7 +22,7 @@
 ---
 ## Safe strat
 
-`Time` **00:21.600** `Difficulty` ★★★☆☆
+`Time` **00:21.600** `Difficulty` ★★☆☆☆
 <details>
   <summary>Click to show/hide the strat</summary>
 

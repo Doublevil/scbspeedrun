@@ -14,6 +14,7 @@
 
   **Notes**
   - This is barely faster than the other strat, which is considerably easier. Only do this one if you are feeling crazy.
+  - If you hesitate or lose any time anywhere, the other strat is faster.
 </details>
 
 ---

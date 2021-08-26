@@ -18,7 +18,7 @@
 </details>
 
 ---
-## Hooking strat
+## Cable strat
 
 `Time` **00:08.400** `Difficulty` ★★☆☆☆
 <details>

@@ -10,7 +10,7 @@ Switching to another cartridge right before that moment prevents that, allowing 
 
 ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_SwapDash.webp)
 
-As demonstrated here, you can use it to reach higher. But it works in any direction. However, it's very precise. Missing the timing just a little bit means you get only a slight boost, or no boost at all.
+As demonstrated here, you can use it to reach higher, but it works in any direction. However, it's very precise. Missing the timing just a little bit means you get only a slight boost, or no boost at all.
 
 ## Swap dash storage (SD Storage)
 
@@ -22,7 +22,7 @@ We can exploit that to negate gravity and gain more height by quickly chaining s
 
 ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_SwapDashStorage.webp)
 
-This is a very hard technique to master, and while it looks impressive and allows us to do some eye-catching strats, it's almost always risky and does not save that much time. You should only learn it when you are already doing solid runs and are looking to save a few more seconds.
+This is a very hard technique to master, and while it looks impressive and allows us to do some eye-catching strats, it's almost always risky, and you have to keep in mind that, while it does save some time, it's not game-changing. You should consider only learning it when you are already doing solid runs and are looking to save a few more seconds.
 
 The key to execute SD Storage is to switch to another cart as soon as possible after dashing, so that you burn as few dash frames as possible at every swap dash. When it's almost used up, you can get an additional speed boost by swap dashing during the last few frames of the dash, as explained in the Swap dash paragraph.
 

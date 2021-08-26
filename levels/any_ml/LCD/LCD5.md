@@ -4,7 +4,7 @@
 
 [< Back (LCD4)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/LCD/LCD4.md) | [Next (LCD6) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/LCD/LCD6.md)
 
-## Death strat
+## Death goal strat
 
 `Time` **00:04.000** `Difficulty` ★★★★☆
 <details open>

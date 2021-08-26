@@ -2,7 +2,7 @@
 
 # Any% Speedhack > The Cloud > CableCart
 
-[< Back (MrSuihanki)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/C/MrSuihanki.md) | [Next (T') >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/C/T'.md)
+[< Back (MrSuihanki)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/C/MrSuihanki.md) | [Next (T') >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/T/T'.md)
 
 ## Strat
 
@@ -14,5 +14,5 @@
 
   **Notes**
   - Quitting out as soon as the background changes allows you to skip the rest of the level.
-  - After quitting out, the game conveniently places the cursor on the map back to T, which is the next level in the run.
+  - After quitting out, the game conveniently places the cursor on the map back to T, which is the next level we want to do.
 </details>

@@ -4,7 +4,7 @@
 
 [< Back (LCD4)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/LCD/LCD4.md) | [Next (LCD6) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/LCD/LCD6.md)
 
-## Speedhack death strat
+## Speedhack death goal strat
 
 `Time` **00:03.200** `Difficulty` ★★★★★
 <details open>

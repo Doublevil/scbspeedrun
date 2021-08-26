@@ -1,6 +1,6 @@
 [Go back to the home page](https://github.com/Doublevil/scbspeedrun)
 
-# Any% Speedhack > Firewall > FW2
+# Any% Speedhack > The Firewall > FW2
 
 [< Back (FW1)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/FW/FW1.md) | [Next (FW3) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/FW/FW3.md)
 
@@ -16,7 +16,7 @@
 ---
 ## Bottom skip strat
 
-`Time` **00:12.600** `Difficulty` ★★★☆☆
+`Time` **00:12.600** `Difficulty` ★★☆☆☆
 <details>
   <summary>Click to show/hide the strat</summary>
 

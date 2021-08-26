@@ -31,7 +31,7 @@
 </details>
 
 ---
-## Grapple boost strat
+## Cable boost strat
 
 `Time` **00:08.500** `Difficulty` ★★★☆☆
 <details>
@@ -41,6 +41,7 @@
 
   **Notes**
   - This is almost the same as the dash boost strat, it still works with a corner boost. It's a bit more consistent and almost as fast, but it's less obvious to see if you are going to get it or if you should fallback to the casual strat.
+  - If you didn't get enough height from the corner boost, you can still recover using a single swap dash or SD storage.
 </details>
 
 ---

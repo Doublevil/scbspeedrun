@@ -13,7 +13,7 @@
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD2_WallClip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD2_WallClip.mp4?raw=true)
 
   **Notes**
-  - Wall clip boosts are inconsistent, but this one is against a wall, so it isn't as precise. It doesn't save much time though.
+  - Wall clip boosts are inconsistent, but this one is against a wall, which isn't as precise. It doesn't save much time though.
 </details>
 
 ---

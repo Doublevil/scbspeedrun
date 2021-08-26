@@ -2,7 +2,7 @@
 
 # Any% Main Levels > The Core > CORE10
 
-[< Back (CORE9)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/CORE/CORE9.md) | [Next (TUNNEL) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/CORE/TUNNEL.md)
+[< Back (CORE9)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/CORE/CORE9.md) | [Next (CORETransition) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/CORE/CORETransition.md)
 
 **Notes**
 - Because the Core levels are so long and quite difficult, and also are the end of the run, you generally should try to reduce risk instead of optimizing speed. On these levels, trying to save 3 seconds can quickly end up costing you 30 seconds and killing your run.

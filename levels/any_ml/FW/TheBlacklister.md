@@ -1,6 +1,6 @@
 [Go back to the home page](https://github.com/Doublevil/scbspeedrun)
 
-# Any% Main Levels > Firewall > TheBlacklister
+# Any% Main Levels > The Firewall > TheBlacklister
 
 [< Back (FW11)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/FW/FW11.md) | [Next (CORE) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/CORE/CORE.md)
 

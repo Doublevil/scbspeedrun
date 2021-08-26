@@ -1,6 +1,6 @@
 [Go back to the home page](https://github.com/Doublevil/scbspeedrun)
 
-# Any% Main Levels > Firewall > FW3
+# Any% Main Levels > The Firewall > FW3
 
 [< Back (FW2)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/FW/FW2.md) | [Next (FW4) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/FW/FW4.md)
 
@@ -20,7 +20,7 @@
 ---
 ## Double skip strat
 
-`Time` **00:10.400** `Difficulty` ★★★★★
+`Time` **00:10.400** `Difficulty` ★★★★☆
 <details>
   <summary>Click to show/hide the strat</summary>
 
@@ -35,7 +35,7 @@
 ---
 ## Casual strat
 
-`Time` **00:13.700** `Difficulty` ★★☆☆☆
+`Time` **00:13.700** `Difficulty` ★☆☆☆☆
 <details>
   <summary>Click to show/hide the strat</summary>
 

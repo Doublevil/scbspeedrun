@@ -2,7 +2,7 @@
 
 # Any% Main Levels > The Assembly > A
 
-[< Back (T')](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/C/T'.md) | [Next (A0) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/A/A0.md)
+[< Back (T')](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/T/T'.md) | [Next (A0) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/A/A0.md)
 
 ## Strat
 

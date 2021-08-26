@@ -2,15 +2,15 @@
 
 # Any% Speedhack > Tower of Hanoi > T
 
-[< Back (KernelPanic)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/KernelPanic.md) | [Next (T0) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/T/T0.md)
+[< Back (KernelPanicSL)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/KernelPanicSL.md) | [Next (T0) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/T/T0.md)
 
-## Strat
+## T0 exit strat
 
 `Time` **00:16.400** `Difficulty` ★★☆☆☆
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/T/T_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/T/T_Strat.mp4?raw=true)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/T/T_T0Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/T/T_T0Strat.mp4?raw=true)
 
   **Notes**
   - You can get a corner boost on each of the two little platforms on the base of the tower. They save up to one second.

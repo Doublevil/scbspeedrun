@@ -16,7 +16,7 @@
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE6_ShortcutStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE6_ShortcutStrat.mp4?raw=true)
 
   **Notes**
-  - This one saves 6 seconds and isn't really harder than the other strats. There's no reason not to go for it.
+  - This one saves 6 seconds and isn't harder than the other strats. There's no reason not to go for it.
 </details>
 
 ---

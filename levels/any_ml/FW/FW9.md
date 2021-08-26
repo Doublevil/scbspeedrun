@@ -1,6 +1,6 @@
 [Go back to the home page](https://github.com/Doublevil/scbspeedrun)
 
-# Any% Main Levels > Firewall > FW9
+# Any% Main Levels > The Firewall > FW9
 
 [< Back (FW8)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/FW/FW8.md) | [Next (FW10) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/FW/FW10.md)
 

@@ -1,6 +1,6 @@
 [Go back to the home page](https://github.com/Doublevil/scbspeedrun)
 
-# Any% Speedhack > Firewall > TheBlacklister
+# Any% Speedhack > The Firewall > TheBlacklister
 
 [< Back (FW11)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/FW/FW11.md) | [Next (CORE) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/CORE/CORE.md)
 

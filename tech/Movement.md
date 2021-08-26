@@ -16,9 +16,9 @@ When jumping while already walking, the walking speed still applies, which means
 
 Moreover, the maximum horizontal speed when in the air is higher than the constant walking speed.
 
-This effectively means that, on a flat terrain, bunny hopping is faster than just walking.
+This effectively means that, on a flat terrain, jumping repeatedly is faster than just walking.
 
-For example, in Core > KernelPanic, reaching the cutscene takes 00:11.203 when walking, but only 00:10:540 when introducing a bunch of bunny hops.
+For example, in Core > KernelPanic, reaching the cutscene takes 00:11.203 when walking, but only 00:10:540 when introducing a bunch of jumps.
 
 ## Jumping physics
 

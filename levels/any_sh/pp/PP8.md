@@ -4,7 +4,7 @@
 
 [< Back (PP7)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/pp/PP7.md) | [Next (PP9) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/pp/PP9.md)
 
-## SD Storage skip strat
+## SD storage strat
 
 `Time` **00:05.600** `Difficulty` ★★★★☆
 <details open>

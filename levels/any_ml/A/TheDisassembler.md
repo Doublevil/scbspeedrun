@@ -4,7 +4,7 @@
 
 [< Back (AY5)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/A/AY5.md) | [Next (JumpCart) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/A/JumpCart.md)
 
-## Skip
+## Skip strat
 
 `Time` **00:12.000** `Difficulty` ★☆☆☆☆
 <details open>

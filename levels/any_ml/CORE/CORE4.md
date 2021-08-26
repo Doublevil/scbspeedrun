@@ -36,7 +36,7 @@
 ---
 ## Safe strat
 
-`Time` **00:19.000** `Difficulty` ★★★☆☆
+`Time` **00:19.000** `Difficulty` ★★☆☆☆
 <details>
   <summary>Click to show/hide the strat</summary>
 

@@ -2,7 +2,7 @@
 
 # Any% Speedhack > Sleep Mode > SL5
 
-[< Back (SL4)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/SL4.md) | [Next (KernelPanic) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/KernelPanic.md)
+[< Back (SL4)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/SL4.md) | [Next (KernelPanicSL) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/KernelPanicSL.md)
 
 ## Strat
 
