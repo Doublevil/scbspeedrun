@@ -6,7 +6,7 @@
 
 ## T0 exit strat
 
-`Time` **00:16.400** `Difficulty` ★★☆☆☆
+`Time` **00:15.600** `Difficulty` ★★☆☆☆
 <details open>
   <summary>Click to show/hide the strat</summary>
 

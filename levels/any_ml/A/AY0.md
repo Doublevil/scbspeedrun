@@ -6,7 +6,7 @@
 
 ## Strat
 
-`Time` **00:09.900** `Difficulty` ★★☆☆☆
+`Time` **00:09.700** `Difficulty` ★★☆☆☆
 <details open>
   <summary>Click to show/hide the strat</summary>
 

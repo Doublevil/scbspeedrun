@@ -6,7 +6,7 @@
 
 ## Assembly exit strat
 
-`Time` **00:15.000** `Difficulty` ★☆☆☆☆
+`Time` **00:14.700** `Difficulty` ★☆☆☆☆
 <details open>
   <summary>Click to show/hide the strat</summary>
 
@@ -14,4 +14,5 @@
 
   **Notes**
   - Going under the tower saves a bit of time.
+  - Before the drop on the right end of the tower, hooking to the ceiling before dropping down makes you fall faster, maximizing the time you spend moving horizontally.
 </details>

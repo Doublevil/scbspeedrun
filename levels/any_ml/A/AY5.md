@@ -6,7 +6,7 @@
 
 ## Elevator skip strat
 
-`Time` **00:10.700** `Difficulty` ★★★★★
+`Time` **00:10.000** `Difficulty` ★★★★★
 <details open>
   <summary>Click to show/hide the strat</summary>
 

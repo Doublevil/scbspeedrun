@@ -6,7 +6,7 @@
 
 ## PP0 exit strat
 
-`Time` **00:05.800** `Difficulty` ★☆☆☆☆
+`Time` **00:04.800** `Difficulty` ★☆☆☆☆
 <details open>
   <summary>Click to show/hide the strat</summary>
 
