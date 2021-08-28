@@ -4,10 +4,23 @@
 
 [< Back (LCD8)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/LCD/LCD8.md) | [Next (LCD10) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/LCD/LCD10.md)
 
-## Stair skip strat
+## Stair skip risky strat
+
+`Time` **00:08.200** `Difficulty` ★★★★★
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD9_RiskyStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD9_RiskyStrat.mp4?raw=true)
+
+  **Notes**
+  - Going through the shortcut instead of doing this at the end is way safer and almost as fast.
+</details>
+
+---
+## Stair skip shortcut strat
 
 `Time` **00:08.400** `Difficulty` ★★★☆☆
-<details open>
+<details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD9_StairSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD9_StairSkip.mp4?raw=true)
@@ -17,7 +30,7 @@
 </details>
 
 ---
-## Stair skip save strat
+## Stair skip save shortcut strat
 
 `Time` **00:08.700** `Difficulty` ★★☆☆☆
 <details>
@@ -30,7 +43,7 @@
 </details>
 
 ---
-## Stair strat
+## Stair shortcut strat
 
 `Time` **00:10.300** `Difficulty` ★☆☆☆☆
 <details>

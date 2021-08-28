@@ -6,7 +6,7 @@
 
 ## Death goal strat
 
-`Time` **00:04.000** `Difficulty` ★★★★☆
+`Time` **00:03.300** `Difficulty` ★★★★☆
 <details open>
   <summary>Click to show/hide the strat</summary>
 
@@ -21,7 +21,7 @@
 ---
 ## Normal strat
 
-`Time` **00:05.000** `Difficulty` ★☆☆☆☆
+`Time` **00:03.600** `Difficulty` ★☆☆☆☆
 <details>
   <summary>Click to show/hide the strat</summary>
 

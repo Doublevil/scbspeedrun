@@ -19,9 +19,12 @@
 ---
 ## Triple jump strat
 
-`Time` **00:06.000** `Difficulty` ★☆☆☆☆
+`Time` **00:04.800** `Difficulty` ★☆☆☆☆
 <details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD6_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD6_Strat.mp4?raw=true)
+
+  **Notes**
+  - The second dash is a swap dash - if you switch to ink cart during the last frames of your dash, you'll get a boost that allows you to fall to the other side without touching the ground, saving something like half a second.
 </details>

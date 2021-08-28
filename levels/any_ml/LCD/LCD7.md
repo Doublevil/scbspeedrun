@@ -4,10 +4,24 @@
 
 [< Back (LCD6)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/LCD/LCD6.md) | [Next (LCD8) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/LCD/LCD8.md)
 
+## Blink dash strat
+
+`Time` **00:10.000** `Difficulty` ★★★★☆
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_BlinkStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_BlinkStrat.mp4?raw=true)
+
+  **Notes**
+  - Takes time to learn, but the execution is doable after that.
+  - You might want to do it in slow motion at first. Download the video of the strat and play it in slow motion too.
+</details>
+
+---
 ## Triple blink strat
 
 `Time` **00:11.300** `Difficulty` ★★☆☆☆
-<details open>
+<details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_TripleBlink.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_TripleBlink.mp4?raw=true)

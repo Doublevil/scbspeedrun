@@ -4,7 +4,7 @@
 
 [< Back (LCD8)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/LCD/LCD8.md) | [Next (LCD10) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/LCD/LCD10.md)
 
-## Speedhack stair skip strat
+## Speedhack stair skip shortcut strat
 
 `Time` **00:07.200** `Difficulty` ★★★★☆
 <details open>
@@ -19,7 +19,7 @@
 </details>
 
 ---
-## Speedhack stair skip save strat
+## Speedhack stair skip save shortcut strat
 
 `Time` **00:07.800** `Difficulty` ★★★☆☆
 <details>
@@ -32,7 +32,7 @@
 </details>
 
 ---
-## Speedhack reverse stair skip strat
+## Speedhack reverse stair skip shortcut strat
 
 `Time` **00:07.800** `Difficulty` ★★★☆☆
 <details>
@@ -45,7 +45,7 @@
 </details>
 
 ---
-## Speedhack stair strat
+## Speedhack stair shortcut strat
 
 `Time` **00:08.700** `Difficulty` ★★☆☆☆
 <details>

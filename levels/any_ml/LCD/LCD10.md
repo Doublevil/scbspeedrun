@@ -9,7 +9,7 @@
 
 ## Optimized strat
 
-`Time` **00:16.000** `Difficulty` ★★★★★
+`Time` **00:15.500** `Difficulty` ★★★★★
 <details open>
   <summary>Click to show/hide the strat</summary>
 

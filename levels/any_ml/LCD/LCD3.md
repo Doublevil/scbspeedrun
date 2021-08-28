@@ -4,21 +4,34 @@
 
 [< Back (LCD2)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/LCD/LCD2.md) | [Next (LCD4) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/LCD/LCD4.md)
 
-## Cart mix strat
+## SD storage strat
 
-`Time` **00:07.200** `Difficulty` ★★☆☆☆
+`Time` **00:06.900** `Difficulty` ★★★☆☆
 <details open>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD3_Mix.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD3_Mix.mp4?raw=true)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD3_SDStorage.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD3_SDStorage.mp4?raw=true)
+
+  **Notes**
+  - This strat uses SD Storage. You can learn more about it in the "Jump cart techs" section of this guide.
 </details>
 
 ---
 ## Normal strat
 
-`Time` **00:07.900** `Difficulty` ★☆☆☆☆
+`Time` **00:07.100** `Difficulty` ★☆☆☆☆
 <details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD3_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD3_Strat.mp4?raw=true)
+</details>
+
+---
+## Cart mix strat
+
+`Time` **00:07.200** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD3_Mix.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD3_Mix.mp4?raw=true)
 </details>
