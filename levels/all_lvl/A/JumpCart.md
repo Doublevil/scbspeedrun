@@ -1,0 +1,30 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
+# All strats > The Assembly > JumpCart
+
+[< Back (TheDisassembler)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/A/TheDisassembler.md) | [Next (PP0) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/pp/PP0.md)
+
+## Speedhack strat
+
+`Time` **00:07.000** `Difficulty` ★☆☆☆☆
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/JumpCart_S_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/JumpCart_S_Strat.mp4?raw=true)
+
+  **Notes**
+  - Once again, we quit out right as the background changes to continue to the Power Plants.
+</details>
+
+---
+## Strat
+
+`Time` **00:09.000** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/JumpCart_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/JumpCart_Strat.mp4?raw=true)
+
+  **Notes**
+  - Once again, we quit out right as the background changes to continue to the Power Plants.
+</details>
