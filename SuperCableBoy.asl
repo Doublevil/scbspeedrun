@@ -1,4 +1,4 @@
-state("Super Cable Boy", "v1.0.6")
+state("Super Cable Boy", "v1.0.7")
 {
 }
 
@@ -183,7 +183,7 @@ init
 {
 	print("Initializing Super Cable Boy Auto Split");
     refreshRate = 60;
-    version = "v1.0.6";
+    version = "v1.0.7";
 	
 	vars.metaSceneManagerStaticInstancePtr = IntPtr.Zero;
 	vars.metaSceneManagerFound = false;
