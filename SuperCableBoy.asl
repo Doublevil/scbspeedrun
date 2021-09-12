@@ -170,6 +170,12 @@ startup {
 	settings.Add("pipeline5", false, "Split on P5");
 	settings.Add("pipeline6", false, "Split on P6");
 	settings.Add("pipelineending", false, "Split on Streamlined");
+	settings.Add("branch0", false, "Split on RF0");
+	settings.Add("branch1", false, "Split on RF1");
+	settings.Add("branch2", false, "Split on RF2");
+	settings.Add("branch3", false, "Split on RF3");
+	settings.Add("branch4", false, "Split on RF4");
+	settings.Add("rng", false, "Split on RNG");
 }
 
 // Called when the game process is found

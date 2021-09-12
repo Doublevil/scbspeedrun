@@ -95,6 +95,7 @@ The following section presents all of the recorded strats on every level of the 
 - **Random Access Memory**: [RAM0](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/RAM/RAM0.md) | [RAM1](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/RAM/RAM1.md) | [RAM2](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/RAM/RAM2.md) | [RAM3](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/RAM/RAM3.md) | [NullCart](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/RAM/NullCart.md)
 - **The Pipeline**: [P](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/P/P.md) | [P0](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/P/P0.md) | [P1](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/P/P1.md) | [P2](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/P/P2.md) | [P3](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/P/P3.md) | [P4](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/P/P4.md) | [P5](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/P/P5.md) | [P6](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/P/P6.md) | [Streamlined](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/P/Streamlined.md)
 - **Hacked Cloud**: HC0 | HC1 | HC2 | HC3 | CloudHopper
+- **Random Forest**: RF0 | RF1 | RF2 | RF3 | RF4 | RNG
 - **Stack Overflow**: SO0 | SO1 | SO2 | SO3 | SOTop
 - **Free Space**: FS0 | FS1 | FS2 | EoF
 
