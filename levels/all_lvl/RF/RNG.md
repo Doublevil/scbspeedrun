@@ -1,0 +1,22 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
+# All strats > Random Forest > RNG
+
+[< Back (RF4)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/RF/RF4.md) | [Next (SO0) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/SO/SO0.md)
+
+**Notes**
+- We don't know what this level is for yet.
+
+## ????
+
+`Time` **00:05.617** `Difficulty` ☆☆☆☆☆
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RF/RNG_WhateverStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RF/RNG_WhateverStrat.mp4?raw=true)
+
+  **Notes**
+  - ????????
+  - ??? ????
+  - ?? ??????? ?????????? ??? ???????? ?? ?
+</details>
