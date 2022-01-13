@@ -1,4 +1,4 @@
-[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+Ôªø[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
 
 # In-depth movement
 
@@ -79,7 +79,7 @@ Now, doing the same with the **Voltage Cart** is even faster, mostly because you
 
 ## Glitch cancel
 
-When a vertical wall intersects with a glitch block (with a 90Åã angle), you can actually stand on the glitch block without dying. This is known as **Glitch cancel**.
+When a vertical wall intersects with a glitch block (with a 90¬∞ angle), you can actually stand on the glitch block without dying. This is known as **Glitch cancel**.
 
 ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_GlitchCancel.webp)
 
