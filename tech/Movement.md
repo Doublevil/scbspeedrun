@@ -24,7 +24,7 @@ For example, in Core > KernelPanic, reaching the cutscene takes 00:11.203 when w
 
 In most platformers, you can hold the jump button to jump higher. In Super Cable Boy, even a single-frame tap will produce a full-height jump. This is not ideal for speedrunning, as we often want to reduce the time we spend in the air in order to be able to get another jump from the ground.
 
-However, pressing down without any other direction (this is a bit more lenient with the analog stick) will almost immediately cancel all upward momentum and have you start falling earlier.
+However, pressing down will almost immediately cancel all upward momentum and have you start falling earlier. In previous updates, you had to let go of any other direction while pressing down to cancel jumps, which put D-Pad users to even more of a disadvantage, but this has been fixed. Certain strats made prior to this update might still reflect that.
 
 ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_JumpCancel.webp)
 
@@ -76,3 +76,17 @@ With the **Jump Cart**, the dash is one of the fastest movement in the game. How
 Now, doing the same with the **Voltage Cart** is even faster, mostly because you don't have to refresh it so often. This is **Voltage dashing**:
 
 ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_VoltageDash.webp)
+
+## Glitch cancel
+
+When a vertical wall intersects with a glitch block (with a 90Åã angle), you can actually stand on the glitch block without dying. This is known as **Glitch cancel**.
+
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_GlitchCancel.webp)
+
+It will only work if you have very little speed when touching the glitch block. The easiest way to trigger it is to dash or voltage against the wall right above the block, so that you fall on the block very slowly.
+
+Trying to move while standing on the glitch will trigger a collision and you will die. However, you can jump, dash away, or voltage away. Sometimes, switching to the voltage cart will also trigger a collision (it's very unstable).
+
+There are places where it will consistently work, other places where it's harder to get, and some places where it doesn't really work. We don't know why.
+
+Due to the particular wall configuration required to trigger glitch cancel, it isn't actually useful for speedrunning (if there is a wall, that means you can already wall jump anyways).
