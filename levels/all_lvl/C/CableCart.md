@@ -16,3 +16,13 @@
   - Quitting out as soon as the background changes allows you to skip the rest of the level.
   - After quitting out, the game conveniently places the cursor on the map back to T, which is the next level we want to do.
 </details>
+
+---
+## Onigiri strat
+
+`Time` **00:15.800** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/C/CableCart_Onigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/C/CableCart_Onigiri.mp4?raw=true)
+</details>

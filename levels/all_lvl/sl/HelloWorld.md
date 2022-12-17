@@ -7,10 +7,20 @@
 **Notes**
 - Using a save manipulation before the start of the run to entirely skip the first two cutscenes is apparently accepted but won't be shown here.
 
-## Strat
+## RAM0 exit strat
+
+`Time` **00:05.700** `Difficulty` ★☆☆☆☆
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/HelloWorld_Ram0Exit.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/HelloWorld_Ram0Exit.mp4?raw=true)
+</details>
+
+---
+## SL0 exit strat
 
 `Time` **00:18.500** `Difficulty` ★☆☆☆☆
-<details open>
+<details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/HelloWorld_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/HelloWorld_Strat.mp4?raw=true)

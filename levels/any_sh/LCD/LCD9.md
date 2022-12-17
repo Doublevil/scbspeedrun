@@ -19,19 +19,6 @@
 </details>
 
 ---
-## Speedhack stair skip save shortcut strat
-
-`Time` **00:07.800** `Difficulty` ★★★☆☆
-<details>
-  <summary>Click to show/hide the strat</summary>
-
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD9_S_StairSkipSave.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD9_S_StairSkipSave.mp4?raw=true)
-
-  **Notes**
-  - This can be used to recover from a failed stair skip, or as an easier alternative.
-</details>
-
----
 ## Speedhack reverse stair skip shortcut strat
 
 `Time` **00:07.800** `Difficulty` ★★★☆☆
@@ -39,6 +26,19 @@
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD9_S_ReverseStairSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD9_S_ReverseStairSkip.mp4?raw=true)
+
+  **Notes**
+  - This can be used to recover from a failed stair skip, or as an easier alternative.
+</details>
+
+---
+## Speedhack stair skip save shortcut strat
+
+`Time` **00:07.800** `Difficulty` ★★★☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD9_S_StairSkipSave.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD9_S_StairSkipSave.mp4?raw=true)
 
   **Notes**
   - This can be used to recover from a failed stair skip, or as an easier alternative.

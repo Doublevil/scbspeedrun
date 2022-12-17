@@ -46,6 +46,14 @@ Wall jumps are another way of moving around. Wall jumps are shorter in height bu
 
 Once you get the Cable Cart, you'll want to minimize vertical wall jumps, as they're pretty slow overall. They will be even more of a loss when you get the jump and voltage carts.
 
+## Edge coyote
+
+Combining the two previous sections is the "edge coyote" technique. Because the game gives you coyote time after detaching from a wall, you can slide off a wall, detach, fall for a bit and then jump in the air.
+
+Because of how lenient the coyote time window is, we can exploit this to reach places that would otherwise be unreachable (without cartridges).
+
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_EdgeCoyote.webp)
+
 ## Corner boost
 
 Corner boosting is a pretty inconsistent technique that you can theoretically execute every time you're jumping, dashing or generally moving fast against a corner of a platform from below.

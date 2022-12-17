@@ -7,7 +7,7 @@
 **Notes**
 - Using a save manipulation before the start of the run to entirely skip the first two cutscenes is apparently accepted but won't be shown here.
 
-## Strat
+## SL0 exit strat
 
 `Time` **00:18.500** `Difficulty` ★☆☆☆☆
 <details open>

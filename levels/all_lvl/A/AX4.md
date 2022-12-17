@@ -16,3 +16,42 @@
   - It's pretty easy to cut the cycle at the start. Just make sure you buffer an input to trigger the voltage cart.
   - Sadly, we haven't been able to find a way to skip anything else on that level.
 </details>
+
+---
+## Casual strat
+
+`Time` **00:19.250** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX4_CasualStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX4_CasualStrat.mp4?raw=true)
+
+  **Notes**
+  - We haven't been able to find a way to skip anything on that level.
+  - It looks like the first column of pistons can almost clip Cable Boy through the left wall, but they will kill us every time.
+</details>
+
+---
+## Voltage strat
+
+`Time` **00:25.000** `Difficulty` ★★★☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX4_VoltageStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX4_VoltageStrat.mp4?raw=true)
+
+  **Notes**
+  - It's pretty easy to cut the cycle at the start. Just make sure you buffer an input to trigger the voltage cart.
+  - Sadly, we haven't been able to find a way to skip anything else on that level.
+  - It's surprisingly hard to go fast in the glitch maze in the end, so you might want to slow down a bit to make sure you don't have to restart the level (it's a long one).
+</details>
+
+---
+## Casual onigiri strat
+
+`Time` **00:29.700** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX4_CasualOnigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX4_CasualOnigiri.mp4?raw=true)
+</details>

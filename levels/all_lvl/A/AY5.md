@@ -6,7 +6,7 @@
 
 ## Elevator skip strat
 
-`Time` **00:10.000** `Difficulty` ★★★★★
+`Time` **00:10.000** `Difficulty` ★★★★☆
 <details open>
   <summary>Click to show/hide the strat</summary>
 
@@ -16,9 +16,19 @@
 ---
 ## Safe strat
 
-`Time` **00:14.000** `Difficulty` ★☆☆☆☆
+`Time` **00:13.700** `Difficulty` ★☆☆☆☆
 <details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY5_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY5_Strat.mp4?raw=true)
+</details>
+
+---
+## Onigiri safe strat
+
+`Time` **00:13.700** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY5_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY5_OnigiriStrat.mp4?raw=true)
 </details>

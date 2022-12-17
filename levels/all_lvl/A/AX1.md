@@ -15,3 +15,46 @@
   **Notes**
   - You'll have to wait for the pistons to come up before you can pass, so no need to hurry at the start.
 </details>
+
+---
+## Piston skip strat
+
+`Time` **00:05.300** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX1_PistonSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX1_PistonSkip.mp4?raw=true)
+</details>
+
+---
+## Voltage onigiri strat
+
+`Time` **00:06.500** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX1_VoltageOnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX1_VoltageOnigiriStrat.mp4?raw=true)
+</details>
+
+---
+## Casual strat
+
+`Time` **00:07.600** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX1_CasualStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX1_CasualStrat.mp4?raw=true)
+
+  **Notes**
+  - Provided for reference. The piston skip strat isn't much harder to execute and saves a lot of time.
+</details>
+
+---
+## Onigiri base strat
+
+`Time` **00:10.100** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX1_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX1_OnigiriStrat.mp4?raw=true)
+</details>
