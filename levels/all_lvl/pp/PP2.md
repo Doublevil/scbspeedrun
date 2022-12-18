@@ -55,3 +55,16 @@
   - This strat uses SD Storage. You can learn more about it in the "Jump cart techs" section of this guide.
   - Use this one as a recovery option if you fail to get enough boosts from the SD storage strat.
 </details>
+
+---
+## Onigiri strat
+
+`Time` **00:11.500** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP2_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP2_OnigiriStrat.mp4?raw=true)
+
+  **Notes**
+  - Other onigiri routes like jumping over the goal to grab the onigiri and go back, or going below the level entirely, are significantly slower.
+</details>

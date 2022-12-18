@@ -14,6 +14,7 @@
 
   **Notes**
   - The corner boost is required to reach the exit from above, but isn't very reliable at all. If you miss it (it should be obvious and leave you ample time to react), you can fallback to the casual strat.
+  - If you know SD Storage, you can mix it in to salvage a failed attempt.
 </details>
 
 ---
@@ -55,4 +56,14 @@
 
   **Notes**
   - This strat can be used as a fallback if you miss the corner boost to fly over the glitch labyrinth.
+</details>
+
+---
+## Onigiri strat
+
+`Time` **00:09.700** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP7_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP7_OnigiriStrat.mp4?raw=true)
 </details>

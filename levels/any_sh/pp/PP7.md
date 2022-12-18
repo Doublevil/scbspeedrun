@@ -57,3 +57,13 @@
   **Notes**
   - This strat can be used as a fallback if you miss the corner boost to fly over the glitch labyrinth.
 </details>
+
+---
+## Onigiri strat
+
+`Time` **00:09.700** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP7_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP7_OnigiriStrat.mp4?raw=true)
+</details>
