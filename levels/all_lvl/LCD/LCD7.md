@@ -80,3 +80,17 @@
   **Notes**
   - Easier than the triple blink and doesn't lose too much time.
 </details>
+
+---
+## Onigiri strat
+
+`Time` **00:13.700** `Difficulty` ★★★★☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_OnigiriRisky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_OnigiriRisky.mp4?raw=true)
+
+  **Notes**
+  - The first part is an alternative to other normal strats. You can do it any way you like.
+  - The free fall part is very precise timing-wise. You'll probably want to stabilize a little bit with a wall jump rather than do it all in one go like in the video.
+</details>

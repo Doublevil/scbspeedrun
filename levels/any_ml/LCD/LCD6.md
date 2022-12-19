@@ -14,6 +14,7 @@
 
   **Notes**
   - It's very fast and impressive, but not very consistent. It's better to go for the other strat.
+  - Don't forget that you have to quickly toggle ink after zipping through the wall.
 </details>
 
 ---
@@ -27,4 +28,14 @@
 
   **Notes**
   - The second dash is a swap dash - if you switch to ink cart during the last frames of your dash, you'll get a boost that allows you to fall to the other side without touching the ground, saving something like half a second.
+</details>
+
+---
+## Onigiri strat
+
+`Time` **00:11.000** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD6_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD6_OnigiriStrat.mp4?raw=true)
 </details>

@@ -9,7 +9,7 @@
 
 ## Optimized strat
 
-`Time` **00:15.500** `Difficulty` ★★★★★
+`Time` **00:15.500** `Difficulty` ★★★★☆
 <details open>
   <summary>Click to show/hide the strat</summary>
 
@@ -17,6 +17,19 @@
 
   **Notes**
   - It's really precise. If you're not entirely used to toggling back and forth between dash and ink, you might want to go for the safer strat.
+</details>
+
+---
+## Onigiri strat
+
+`Time` **00:16.300** `Difficulty` ★★★★☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD10_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD10_OnigiriStrat.mp4?raw=true)
+
+  **Notes**
+  - The back and forth between dash and ink is very precise, but you can fallback to a more comfortable strat, the onigiri part itself should stay the same.
 </details>
 
 ---

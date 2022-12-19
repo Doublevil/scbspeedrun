@@ -28,6 +28,7 @@
 
   **Notes**
   - It's very fast and impressive, but not very consistent. It's better to go for the other strat.
+  - Don't forget that you have to quickly toggle ink after zipping through the wall.
 </details>
 
 ---
@@ -51,4 +52,14 @@
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD6_S_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD6_S_Strat.mp4?raw=true)
+</details>
+
+---
+## Onigiri strat
+
+`Time` **00:11.000** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD6_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD6_OnigiriStrat.mp4?raw=true)
 </details>

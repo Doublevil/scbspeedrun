@@ -17,6 +17,16 @@
 </details>
 
 ---
+## Onigiri strat
+
+`Time` **00:10.900** `Difficulty` ★★★☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD11_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD11_OnigiriStrat.mp4?raw=true)
+</details>
+
+---
 ## Wall jump strat
 
 `Time` **00:11.700** `Difficulty` ★★☆☆☆

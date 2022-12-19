@@ -25,3 +25,17 @@
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD0_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD0_Strat.mp4?raw=true)
 </details>
+
+---
+## Double onigiri strat
+
+`Time` **00:30.000** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD0_DoubleOnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD0_DoubleOnigiriStrat.mp4?raw=true)
+
+  **Notes**
+  - Ugh. Thanks Sørb!
+  - Don't try to over-optimize and miss a platform or something. You don't want to die on this one.
+</details>

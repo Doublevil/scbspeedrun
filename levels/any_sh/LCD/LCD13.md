@@ -30,3 +30,16 @@
   - The low dash at the end might seem scary but it's actually safer than making a full jump, as you're falling more slowly. It's still faster than a full jump too.
   - Especially with speedhack, you'll have to remember to quickly toggle the ink cart at the start.
 </details>
+
+---
+## Onigiri strat
+
+`Time` **00:10.500** `Difficulty` ★★★☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD13_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD13_OnigiriStrat.mp4?raw=true)
+
+  **Notes**
+  - You can rest on the alt-ink platform instead of jump-inking in the middle section, it shouldn't cost too much time.
+</details>

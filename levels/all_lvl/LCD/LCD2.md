@@ -35,3 +35,13 @@
   **Notes**
   - Wall clip boosts are inconsistent, but this one is against a wall, which isn't as precise. It doesn't really save time though.
 </details>
+
+---
+## Onigiri strat
+
+`Time` **00:11.700** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD2_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD2_OnigiriStrat.mp4?raw=true)
+</details>

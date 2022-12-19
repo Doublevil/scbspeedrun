@@ -30,3 +30,17 @@
   **Notes**
   - Be careful not to go too fast with the wall dashes on the first wall segment, or you'll crash into the glitch blocks in the gap between the two walls.
 </details>
+
+---
+## Onigiri strat
+
+`Time` **00:09.300** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD5_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD5_OnigiriStrat.mp4?raw=true)
+
+  **Notes**
+  - That setup to slip into the ink maze should be pretty consistent.
+  - Exiting through the gap in this way takes some practice. Don't hesitate to use a straight dash and stabilize on the ink instead.
+</details>

@@ -35,3 +35,16 @@
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD3_Mix.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD3_Mix.mp4?raw=true)
 </details>
+
+---
+## Double onigiri strat
+
+`Time` **00:15.300** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD3_DoubleOnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD3_DoubleOnigiriStrat.mp4?raw=true)
+
+  **Notes**
+  - In the glitch maze after picking up the jump onigiri, you can let go of Right briefly to get around the corners more consistently.
+</details>
