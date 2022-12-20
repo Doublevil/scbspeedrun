@@ -6,7 +6,7 @@
 
 ## Cartridge mix strat
 
-`Time` **00:10.500** `Difficulty` ★★★★☆
+`Time` **00:10.500** `Difficulty` ★★★☆☆
 <details open>
   <summary>Click to show/hide the strat</summary>
 
@@ -20,9 +20,19 @@
 ---
 ## Voltage strat
 
-`Time` **00:11.200** `Difficulty` ★★☆☆☆
+`Time` **00:11.200** `Difficulty` ★☆☆☆☆
 <details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW1_VoltageStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW1_VoltageStrat.mp4?raw=true)
+</details>
+
+---
+## Double onigiri strat
+
+`Time` **00:15.500** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW1_DoubleOnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW1_DoubleOnigiriStrat.mp4?raw=true)
 </details>

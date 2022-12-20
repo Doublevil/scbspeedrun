@@ -25,3 +25,13 @@
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW5_CasualStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW5_CasualStrat.mp4?raw=true)
 </details>
+
+---
+## Double onigiri strat
+
+`Time` **00:25.000** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW5_DoubleOnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/FW5_DoubleOnigiriStrat.mp4?raw=true)
+</details>

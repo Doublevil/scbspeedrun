@@ -14,5 +14,5 @@
 
   **Notes**
   - Another optimization-heavy stage. Take it as fast as you're comfortable with. Being too aggressive around the corners means a risk to lose up to 10 seconds.
-  - Some runners use voltage flick here. It might be more optimized but I can't do it.
+  - Some runners use voltage flick here. It might be slightly more optimized but I can't do it.
 </details>

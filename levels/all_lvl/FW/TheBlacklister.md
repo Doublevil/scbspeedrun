@@ -24,6 +24,21 @@
 </details>
 
 ---
+## Good RNG (Onigiri)
+
+`Time` **01:07.000** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_OnigiriLucky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_OnigiriLucky.mp4?raw=true)
+
+  **Notes**
+  - Video is shortened to show just the onigiri. See the regular strats for example fights.
+  - Picking up the onigiri takes roughly 2 seconds.
+  - Be careful to touch the door trigger before picking up the onigiri. It doesn't extend all the way to the door.
+</details>
+
+---
 ## Bad RNG
 
 `Time` **01:26.000** `Difficulty` ★★☆☆☆
@@ -31,4 +46,19 @@
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_Unlucky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_Unlucky.mp4?raw=true)
+</details>
+
+---
+## Bad RNG (Onigiri)
+
+`Time` **01:28.000** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_OnigiriUnlucky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/FW/TheBlacklister_OnigiriUnlucky.mp4?raw=true)
+
+  **Notes**
+  - Video is shortened to show just the onigiri. See the regular strats for example fights.
+  - Picking up the onigiri takes roughly 2 seconds.
+  - Be careful to touch the door trigger before picking up the onigiri. It doesn't extend all the way to the door.
 </details>
