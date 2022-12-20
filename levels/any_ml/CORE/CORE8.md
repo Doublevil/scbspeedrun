@@ -21,6 +21,22 @@
 </details>
 
 ---
+## Onigiri strat
+
+`Time` **00:32.100** `Difficulty` ★★★★★
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE8_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE8_OnigiriStrat.mp4?raw=true)
+
+  **Notes**
+  - The onigiri part is a bit scary because you have to avoid the glitchy ink to the left, without touching the rightmost glitch crumble. However, doing it normally would still be scary (maybe even more) on top of being slow.
+  - Going directly from the onigiri section to the voltage pool is even scarier, and is the reason why we switch to triple jump and make a jump. This lets us reset our vertical speed and get closer to the pool before toggling the voltage cart. Without that jump, voltage would expire just before we reach the pool.
+  - It's way safer to voltage to the rightmost messagebox wall before going for the voltage pool. Keep in mind that dying there costs 20 seconds.
+  - For the rest of the level, you can also play it safer. See the safe strat in the Any% route.
+</details>
+
+---
 ## Safe strat
 
 `Time` **00:32.800** `Difficulty` ★★★☆☆

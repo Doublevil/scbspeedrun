@@ -52,7 +52,7 @@ There are several routes you can use. The Any% Main Levels route is the easiest,
 
 #### Any% Main Levels
 
-`Category` **Any%** `Difficulty` ★☆☆☆☆ `Estimated best time` **00:26:35**
+`Category` **Any%** `Difficulty` ★☆☆☆☆ `Estimated best time` **00:26:33**
 
 Go through all of the main levels (excluding AX) and beat The Glitch. Faster and easier than Any% Speedhack.
 
@@ -67,9 +67,9 @@ Go through all of the main levels (excluding AX) and beat The Glitch. Faster and
 
 #### Any% Speedhack
 
-`Category` **Any%** `Difficulty` ★★☆☆☆ `Estimated best time` **00:27:30**
+`Category` **Any%** `Difficulty` ★★☆☆☆ `Estimated best time` **00:27:27**
 
-Get the speedhack and beat The Glitch. Because of the time it gets to activate the speedhack, this route ends up being slower than Any% Main Levels, despite being harder.
+Get the speedhack and beat The Glitch. Because of the time it takes to activate the speedhack, this route ends up being slower than Any% Main Levels, despite being harder.
 
 - **Sleep Mode**: [HelloWorld](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/HelloWorld.md) | [SL0](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/SL0.md) | [SL1](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/SL1.md) | [SL2](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/SL2.md) | [SL3](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/SL3.md) | [SL4](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/SL4.md) | [SL5](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/SL5.md) | [KernelPanicSL](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/sl/KernelPanicSL.md)
 - **Tower of Hanoi**: [T](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/T/T.md) | [T0](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/T/T0.md) | [T1](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/T/T1.md) | [T2](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/T/T2.md) | [T3](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/T/T3.md) | [T4](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/T/T4.md) | [T5](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/T/T5.md)

@@ -17,6 +17,19 @@
 </details>
 
 ---
+## Onigiri strat
+
+`Time` **00:27.800** `Difficulty` ★★★★★
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE10_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE10_OnigiriStrat.mp4?raw=true)
+
+  **Notes**
+  - Based on the risky strat from the Any% route. See the safe strat if you want to slow it down a bit.
+</details>
+
+---
 ## Safe strat
 
 `Time` **00:32.000** `Difficulty` ★★★★☆

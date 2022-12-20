@@ -9,14 +9,14 @@
 
 ## Stupid strat
 
-`Time` **00:11.500** `Difficulty` ★★★★★★
+`Time` **00:11.500** `Difficulty` ★★★★★
 <details open>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE4_StupidStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE4_StupidStrat.mp4?raw=true)
 
   **Notes**
-  - This is mostly here for fun. It's way too hard to try in a real run.
+  - This is really stupidly hard. Try another strat!
 </details>
 
 ---
@@ -27,4 +27,14 @@
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE4_S_NormalStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE4_S_NormalStrat.mp4?raw=true)
+</details>
+
+---
+## Onigiri strat
+
+`Time` **00:20.300** `Difficulty` ★★★★☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE4_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE4_OnigiriStrat.mp4?raw=true)
 </details>

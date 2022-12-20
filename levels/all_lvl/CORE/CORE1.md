@@ -45,3 +45,16 @@
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE1_OptimizedStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE1_OptimizedStrat.mp4?raw=true)
 </details>
+
+---
+## Double onigiri strat
+
+`Time` **00:27.000** `Difficulty` ★★★★☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE1_DoubleOnigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE1_DoubleOnigiri.mp4?raw=true)
+
+  **Notes**
+  - You can use ink clipping to get some more boosts on the way, but it's very risky.
+</details>

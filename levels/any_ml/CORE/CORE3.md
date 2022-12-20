@@ -28,3 +28,16 @@
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE3_SafeStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE3_SafeStrat.mp4?raw=true)
 </details>
+
+---
+## Onigiri strat
+
+`Time` **00:29.300** `Difficulty` ★★★★☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE3_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE3_OnigiriStrat.mp4?raw=true)
+
+  **Notes**
+  - After getting the onigiri, it's the same strat as in the Any% category, with one difficulty point added because the onigiri makes the whole thing longer and thus more risky.
+</details>

@@ -35,3 +35,13 @@
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE2_VoltageStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE2_VoltageStrat.mp4?raw=true)
 </details>
+
+---
+## Onigiri full voltage strat
+
+`Time` **00:18.400** `Difficulty` ★★★☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE2_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE2_OnigiriStrat.mp4?raw=true)
+</details>

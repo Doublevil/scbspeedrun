@@ -25,3 +25,16 @@
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE0_CutsceneStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE0_CutsceneStrat.mp4?raw=true)
 </details>
+
+---
+## Onigiri strat
+
+`Time` **00:14.000** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE0_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE0_OnigiriStrat.mp4?raw=true)
+
+  **Notes**
+  - Make sure to fly over the cutscene trigger when going back to the start.
+</details>
