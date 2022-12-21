@@ -32,13 +32,13 @@
 </details>
 
 ---
-## Voltage strat
+## Voltage onigiri strat
 
 `Time` **00:25.000** `Difficulty` ★★★☆☆
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX4_VoltageStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX4_VoltageStrat.mp4?raw=true)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX4_VoltageOnigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX4_VoltageOnigiri.mp4?raw=true)
 
   **Notes**
   - It's pretty easy to cut the cycle at the start. Just make sure you buffer an input to trigger the voltage cart.
