@@ -27,4 +27,5 @@
 
   **Notes**
   - By moving the ink onigiri where we finish the level, finishing the level with the cable onigiri and toggling back to ink after grabbing the exit during the transition, we get the ink onigiri back instead of the cable onigiri, but the game will still count both onigiris as collected.
+  - It looks super easy but it's really not. You've got to practice to be able to consistently switch carts fast enough to collect the ink onigiri after grabbing the goal.
 </details>
