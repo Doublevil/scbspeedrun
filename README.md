@@ -26,6 +26,7 @@ This section contains links to individual pages detailing speedrunning technique
 - [Jump cart techs](https://github.com/Doublevil/scbspeedrun/blob/main/tech/JumpCart.md)
 - [Ink cart techs](https://github.com/Doublevil/scbspeedrun/blob/main/tech/InkCart.md)
 - [Voltage cart techs](https://github.com/Doublevil/scbspeedrun/blob/main/tech/VoltageCart.md)
+- [Onigiri techs](https://github.com/Doublevil/scbspeedrun/blob/main/tech/Onigiri.md)
 
 ## Level-by-level strats collection
 
@@ -124,6 +125,6 @@ This section lists the terms used in this guide and that are not obvious. This i
 
 ## Credits
 
-This guide was made by Doublevil, and uses strats developed and shared by members of the community from all around the world, including Sany, Ayden., Boney, Lopraito, madorama and Doublevil. This is a group effort, and sharing and improving on each other's strats is what makes speedrunning so cool. Thank you all.
+This guide was made by Doublevil, and uses strats developed and shared by members of the community from all around the world, including M4T/Sany, Ayden., Boney, Lopraito, madorama and Doublevil. This is a group effort, and sharing and improving on each other's strats is what makes speedrunning so cool. Thank you all.
 
 And thank you Sørb for making such a great game.
