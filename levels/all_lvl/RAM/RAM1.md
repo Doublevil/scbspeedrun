@@ -27,7 +27,7 @@
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RAM/RAM1_ShortcutStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RAM/RAM1_ShortcutStrat.mp4?raw=true)
 
   **Notes**
-  - Use this one if you can't use SD storage.
+  - Use this one if you can't use SD storage. Be careful though, this one is more precise.
 </details>
 
 ---
@@ -41,4 +41,36 @@
 
   **Notes**
   - Going through the intended route like this is considerably slower and not much easier.
+</details>
+
+---
+## Onigiri SD storage juggle strat
+
+`Time` **00:19.200** `Difficulty` ★★★★★
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RAM/RAM1_SDSJuggleOnigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RAM/RAM1_SDSJuggleOnigiri.mp4?raw=true)
+
+  **Notes**
+  - This strat uses SD Storage. You can learn more about it in the "Jump cart techs" section of this guide.
+  - This strat might not be worth it. Check out the intended onigiri strat as well.
+  - The cable jump in the tiny gap after falling down is very precise. It's better to wait until the cable stabilizes entirely, then jump, and briefly stop holding Left near the end.
+  - For the onigiri juggle part, grabbing the block from above is stupidly random. Just be careful not to die when it repeatedly fails to grab.
+</details>
+
+---
+## Onigiri intended strat
+
+`Time` **00:21.000** `Difficulty` ★★★★★
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RAM/RAM1_IntendedOnigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RAM/RAM1_IntendedOnigiri.mp4?raw=true)
+
+  **Notes**
+  - Slightly easier than the SD storage juggle strat.
+  - The cable jump in the tiny gap after falling down is very precise. It's better to wait until the cable stabilizes entirely, then jump, and briefly stop holding Left near the end.
+  - This level has lots of places where the cable randomly fails. Be careful to always have a backup in case it happens.
+  - You can recover from soemthing going wrong by switching to jump cart, stabilizing, and juggling the onigiri back up.
 </details>

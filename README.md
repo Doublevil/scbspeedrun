@@ -68,7 +68,7 @@ Go through all of the main levels (excluding AX) and beat The Glitch. Faster and
 
 #### Any% Speedhack
 
-`Category` **Any%** `Difficulty` ★★☆☆☆ `Estimated best time` **00:27:27**
+`Category` **Any%** `Difficulty` ★★☆☆☆ `Estimated best time` **00:27:22**
 
 Get the speedhack and beat The Glitch. Because of the time it takes to activate the speedhack, this route ends up being slower than Any% Main Levels, despite being harder.
 
