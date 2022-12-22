@@ -72,5 +72,5 @@
   - Slightly easier than the SD storage juggle strat.
   - The cable jump in the tiny gap after falling down is very precise. It's better to wait until the cable stabilizes entirely, then jump, and briefly stop holding Left near the end.
   - This level has lots of places where the cable randomly fails. Be careful to always have a backup in case it happens.
-  - You can recover from soemthing going wrong by switching to jump cart, stabilizing, and juggling the onigiri back up.
+  - You can recover from something going wrong by switching to jump cart, stabilizing, and juggling the onigiri back up.
 </details>
