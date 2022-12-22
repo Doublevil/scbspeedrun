@@ -59,6 +59,18 @@ Here, the hand of The Disassembler moves over the cable while we are hooked, whi
 
 We can do similar cable clips with the moving platforms in the AY levels, or with the pistons in the AX levels.
 
+## Wall plug
+
+A wall plug is a technique that consists in grabbing the goal plug through a solid wall. It works by exploiting the pulling effect that goal plugs have on the cable. Because of the pulling effect, when you use the cable cart to grab a wall close enough to a goal plug, and then switch to another cartridge, the cable goes through the wall and ends up on the other side. In this state, it can still plug into the goal.
+
+![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_WallPlug.webp)
+
+Note that if the goal plug is one block further away, repeatedly and rapidly grabbing and changing carts should eventually extend the cable far enough that it grabs the goal anyways.
+
+Now, this technique looks game-breaking, but in practice, so far, we haven't been able to find significant time saves that use it.
+
+Also note that there are other ways to get the cable to zip through walls (by exploiting the level geometry, trapping the cable in a piston, etc). These should work in the same way in theory, and do not require the goal plug's pull effect.
+
 ## Quirks
 
 The cable can sometimes act weird. It might sometimes grab from above its normal max range, or just fail to grab the exit plug when it's clearly in range. These things probably happen because of how the physics engine works, and we can't really predict or manipulate them. But they're rare enough that it doesn't really change our strats at all. Just know that you might have to recover from a failing hook sometimes.
