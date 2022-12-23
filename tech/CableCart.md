@@ -71,6 +71,8 @@ Now, this technique looks game-breaking, but in practice, so far, we haven't bee
 
 Also note that there are other ways to get the cable to zip through walls (by exploiting the level geometry, trapping the cable in a piston, etc). These should work in the same way in theory, and do not require the goal plug's pull effect.
 
+Interestingly, some wall plugs actually require null cartridge, because it has the unique (and unintended) property of keeping the cable length instead of shrinking it back to normal. This makes is so that switching from cable cart to null cart allows you to grab the goal from further behind a wall.
+
 ## Quirks
 
 The cable can sometimes act weird. It might sometimes grab from above its normal max range, or just fail to grab the exit plug when it's clearly in range. These things probably happen because of how the physics engine works, and we can't really predict or manipulate them. But they're rare enough that it doesn't really change our strats at all. Just know that you might have to recover from a failing hook sometimes.
