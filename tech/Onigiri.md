@@ -28,7 +28,7 @@ We can take this juggling technique further by using SD storage. This is best do
 
 The timing is deceptively precise. It's hard to master, even when you've already mastered SD storage.
 
-## Multi-ending
+## Multicart ending
 
 We have discovered that it's possible to complete a level with multiple cartridge-specific onigiris at once (e.g. an ink onigiri and a cable onigiri).
 
