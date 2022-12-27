@@ -14,7 +14,17 @@
 </details>
 
 ---
-## Cable-only strat
+## Voltage onigiri strat
+
+`Time` **00:09.800** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/HC/HC1_VoltageOnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/HC/HC1_VoltageOnigiriStrat.mp4?raw=true)
+</details>
+
+---
+## Cable onigiri strat
 
 `Time` **00:11.200** `Difficulty` ★★★★☆
 <details>
@@ -24,4 +34,30 @@
 
   **Notes**
   - Those hooks can be very precise. You have to aim at the surfaces you want to hook for a split-second before pressing up again and jumping.
+</details>
+
+---
+## Jump onigiri shortcut strat
+
+`Time` **00:14.200** `Difficulty` ★★★☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/HC/HC1_JumpOnigiriShortcut.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/HC/HC1_JumpOnigiriShortcut.mp4?raw=true)
+
+  **Notes**
+  - This strat avoids a number of precise wall jumps with a pretty simple cable jump juggle.
+</details>
+
+---
+## Jump onigiri intended strat
+
+`Time` **00:15.800** `Difficulty` ★★★★☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/HC/HC1_JumpOnigiriIntended.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/HC/HC1_JumpOnigiriIntended.mp4?raw=true)
+
+  **Notes**
+  - Check out the faster and easier shortcut strat. This one has a lot of precise wall jumps.
 </details>
