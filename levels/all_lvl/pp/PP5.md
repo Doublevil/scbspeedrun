@@ -4,10 +4,20 @@
 
 [< Back (PP4)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/pp/PP4.md) | [Next (PP6) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/pp/PP6.md)
 
+## Jailbreak strat
+
+`Time` **00:09.100** `Difficulty` ★★☆☆☆
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP5_JailbreakOnigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP5_JailbreakOnigiri.mp4?raw=true)
+</details>
+
+---
 ## SD Storage strat
 
 `Time` **00:09.600** `Difficulty` ★★★★★
-<details open>
+<details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP5_SDStorage.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP5_SDStorage.mp4?raw=true)

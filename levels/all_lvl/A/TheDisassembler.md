@@ -17,3 +17,17 @@
   - Be careful to grab the middle of the block on top of the door, just like on the video (look at the gamepad inputs, it's really easy). Grabbing too high will take you through the wrong walls and too low will get you crushed.
   - Sometimes, even grabbing at the right spot, you'll get crushed instead of zipping through the door... there's nothing you can do about it, it just happens.
 </details>
+
+---
+## Jailbreak strat
+
+`Time` **00:22.000** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/TheDisassembler_JailbreakStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/TheDisassembler_JailbreakStrat.mp4?raw=true)
+
+  **Notes**
+  - With jailbreak, you can't go through the door because the door would kill you.
+  - Sometimes it feels like the cable is actively avoiding the push buttons. Good luck.
+</details>

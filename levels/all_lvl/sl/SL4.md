@@ -4,10 +4,20 @@
 
 [< Back (SL3)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/sl/SL3.md) | [Next (SL5) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/sl/SL5.md)
 
+## Jailbreak onigiri strat
+
+`Time` **00:05.000** `Difficulty` ★☆☆☆☆
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/SL4_JailbreakOnigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/SL4_JailbreakOnigiri.mp4?raw=true)
+</details>
+
+---
 ## Strat
 
 `Time` **00:08.600** `Difficulty` ★☆☆☆☆
-<details open>
+<details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/SL4_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/SL4_Strat.mp4?raw=true)

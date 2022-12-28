@@ -31,6 +31,16 @@
 </details>
 
 ---
+## Jailbreak strat
+
+`Time` **00:09.900** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD8_JailbreakStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD8_JailbreakStrat.mp4?raw=true)
+</details>
+
+---
 ## Onigiri strat
 
 `Time` **00:10.400** `Difficulty` ★☆☆☆☆

@@ -44,6 +44,16 @@
 </details>
 
 ---
+## Jailbreak strat
+
+`Time` **00:03.500** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD0_JailbreakStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD0_JailbreakStrat.mp4?raw=true)
+</details>
+
+---
 ## Normal strat
 
 `Time` **00:04.500** `Difficulty` ★☆☆☆☆

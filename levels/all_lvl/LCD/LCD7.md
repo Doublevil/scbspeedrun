@@ -29,6 +29,19 @@
 </details>
 
 ---
+## Jailbreak strat
+
+`Time` **00:09.800** `Difficulty` ★★★☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_JailbreakStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_JailbreakStrat.mp4?raw=true)
+
+  **Notes**
+  - Make sure you are high enough on the glitchy ink wall before jumping to the other side, otherwise you'll crash into the ground before you pass the second glitchy ink wall.
+</details>
+
+---
 ## Blink dash strat
 
 `Time` **00:10.000** `Difficulty` ★★★★☆

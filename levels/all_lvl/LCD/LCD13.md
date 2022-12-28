@@ -57,3 +57,27 @@
   **Notes**
   - You can rest on the alt-ink platform instead of jump-inking in the middle section, it shouldn't cost too much time.
 </details>
+
+---
+## Jailbreak wall plug strat
+
+`Time` **00:10.600** `Difficulty` ★★★★☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD13_JailbreakNullStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD13_JailbreakNullStrat.mp4?raw=true)
+
+  **Notes**
+  - This strat uses the wall plug tech, with the null cart to extend the cable. See the Cable cart techs page for more info.
+  - The hard part is positioning the onigiri as close as possible to the ceiling without touching it. It's really hard to chain everything together in this way.
+</details>
+
+---
+## Jailbreak intended strat
+
+`Time` **00:12.200** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD13_JailbreakIntendedStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD13_JailbreakIntendedStrat.mp4?raw=true)
+</details>
