@@ -73,6 +73,28 @@ Dashing gives the best results in terms of speed. Here's an example with a dash,
 
 ![gif](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_CornerBoostDash.webp)
 
+## Metaphor zip
+
+This technique was discovered by accident by a player named TheGreatMetaphor and is named after them. It allows us to zip through certain walls, most notably in the Core levels.
+
+![Demonstration of a metaphor zip](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_MetaphorZip.webp)
+
+Using a dash and a jump at the same time against a corner made of messagebox blocks (the ones found in Core) can zip us inside the wall. From there, we can exit the walls by doing the same thing against another corner. This is because of an optimization: interior tiles have no collision box. This means you can move freely in them.
+
+To explain further, here is a chart:
+
+![A chart showing where metaphor zip is possible](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_MetaphorZipChart.png)
+
+The tiles highlighted in white are interior tiles, with no collision. When doing a Metaphor zip, we are only traversing tiles with no collisions. On the chart, the arrows with a triangular head show where it's possible to zip, whereas the ones with a cross as a head show examples of where you cannot do it.
+
+The reason why it works with the messagebox tiles and not with other tilesets is that in every other tileset, the only tiles without collisions are the ones surrounded by other tiles on all 8 sides (including diagonals).
+
+For the same reasons, we can also use Metaphor zips on disjointed tiles like demonstrated below.
+
+![Demonstration of a disjointed metaphor zip](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_MetaphorZip2.webp)
+
+However, only glitch blocks are arranged in this way in the game, which means we cannot exploit it too much, although it can still save some time in jailbreak strats.
+
 ## Movement speed with cartridges
 
 Jumping while swinging with the **Cable Cart** keeps the momentum of the swing, meaning you can reach slightly higher speed than the game would usually allow you to. However, when hooking, you have to be careful about your angle and distance from the point you are hooking to. Depending on these factors, it might stop you for a little while, or build up on your momentum. Getting the latter is not entirely consistent, but seems to work better when you're close to the hook point.
