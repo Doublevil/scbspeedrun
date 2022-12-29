@@ -4,10 +4,33 @@
 
 [< Back (AY2)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/A/AY2.md) | [Next (AY4) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/A/AY4.md)
 
+## Speedhack onigiri voltage strat
+
+`Time` **00:07.800** `Difficulty` ★★☆☆☆
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY3_S_OnigiriVoltage.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY3_S_OnigiriVoltage.mp4?raw=true)
+</details>
+
+---
+## Onigiri voltage strat
+
+`Time` **00:08.000** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY3_OnigiriVoltage.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY3_OnigiriVoltage.mp4?raw=true)
+
+  **Notes**
+  - Dash right at the start to make sure you catch the second platform with voltage.
+</details>
+
+---
 ## Full cycle skip strat
 
 `Time` **00:09.000** `Difficulty` ★★★★★
-<details open>
+<details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY3_FullCycleSkip.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY3_FullCycleSkip.mp4?raw=true)

@@ -27,13 +27,26 @@
 </details>
 
 ---
-## Voltage onigiri strat
+## Speedhack onigiri voltage strat
+
+`Time` **00:05.400** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX3_S_OnigiriVoltage.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX3_S_OnigiriVoltage.mp4?raw=true)
+
+  **Notes**
+  - Make sure you immediately move away from the pistons in that last voltage up before the onigiri.
+</details>
+
+---
+## Onigiri voltage strat
 
 `Time` **00:05.600** `Difficulty` ★★☆☆☆
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX3_VoltageStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX3_VoltageStrat.mp4?raw=true)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX3_VoltageOnigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX3_VoltageOnigiri.mp4?raw=true)
 
   **Notes**
   - If you often get knocked out by the pistons at the end, pay close attention to where we regenerate the voltage in the video. A different setup will probably be more dangerous.

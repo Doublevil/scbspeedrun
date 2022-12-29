@@ -17,7 +17,7 @@
 </details>
 
 ---
-## Speedhack basic onigiri strat
+## Speedhack onigiri basic strat
 
 `Time` **00:07.700** `Difficulty` ★☆☆☆☆
 <details>

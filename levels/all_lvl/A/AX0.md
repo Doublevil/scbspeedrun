@@ -46,6 +46,16 @@
 </details>
 
 ---
+## Speedhack onigiri voltage strat
+
+`Time` **00:11.100** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX0_S_OnigiriVoltage.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX0_S_OnigiriVoltage.mp4?raw=true)
+</details>
+
+---
 ## Voltage cycle skip onigiri strat
 
 `Time` **00:11.200** `Difficulty` ★★★★★
@@ -63,7 +73,7 @@
 </details>
 
 ---
-## Voltage onigiri strat
+## Onigiri voltage strat
 
 `Time` **00:13.600** `Difficulty` ★★☆☆☆
 <details>

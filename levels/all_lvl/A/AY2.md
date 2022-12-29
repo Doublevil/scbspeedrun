@@ -14,6 +14,19 @@
 </details>
 
 ---
+## Null onigiri strat
+
+`Time` **00:12.200** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY2_NullOnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY2_NullOnigiriStrat.mp4?raw=true)
+
+  **Notes**
+  - Use this one if you already picked up the normal onigiri.
+</details>
+
+---
 ## Normal onigiri strat
 
 `Time` **00:18.000** `Difficulty` ★☆☆☆☆
@@ -21,4 +34,17 @@
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY2_NormalOnigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY2_NormalOnigiri.mp4?raw=true)
+</details>
+
+---
+## Double onigiri strat
+
+`Time` **00:21.300** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY2_DoubleOnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY2_DoubleOnigiriStrat.mp4?raw=true)
+
+  **Notes**
+  - With speedhack, the strat is the same and timing is similar. Running up the walls doesn't same time.
 </details>
