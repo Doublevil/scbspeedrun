@@ -32,7 +32,7 @@
 </details>
 
 ---
-## Onigiri jump strat
+## Speedhack onigiri jump strat
 
 `Time` **00:23.800** `Difficulty` ★★★☆☆
 <details>

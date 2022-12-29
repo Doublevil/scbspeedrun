@@ -20,7 +20,7 @@
 <details>
   <summary>Click to show/hide the strat</summary>
 
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX7_S_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX7_S_OnigiriStrat.mp4?raw=true)
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX7_S_OnigiriVoltage.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX7_S_OnigiriVoltage.mp4?raw=true)
 </details>
 
 ---
