@@ -15,3 +15,13 @@
   **Notes**
   - Jump early to avoid waiting too much for Cable Boy to fall down.
 </details>
+
+---
+## Speedhack onigiri strat
+
+`Time` **00:10.700** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP2_S_Onigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP2_S_Onigiri.mp4?raw=true)
+</details>

@@ -55,13 +55,13 @@
   - It is considerably faster than the other, more intended strat, but it's also really easy to mess up and waste time.
   - If you run out of dash, leave the onigiri up there while you fall down and climb up again. This will save you some time over restarting the level.
   - It also has some leniency. If you swap-dash once or twice without collecting the onigiri in the process, don't give up, you can still make it to the top sometimes.
-  - Practicing onigiri SD storage on the onigiri without moving it at first is best.
+  - Practicing onigiri SD storage on the onigiri without moving it all the way up along the wall at first is best.
 </details>
 
 ---
 ## Double onigiri strat
 
-`Time` **00:24.200** `Difficulty` ★★☆☆☆
+`Time` **00:24.200** `Difficulty` ★★★☆☆
 <details>
   <summary>Click to show/hide the strat</summary>
 

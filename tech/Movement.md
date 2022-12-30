@@ -120,3 +120,20 @@ Trying to move while standing on the glitch will trigger a collision and you wil
 There are places where it will consistently work, other places where it's harder to get, and some places where it doesn't really work. We don't know why.
 
 Due to the particular wall configuration required to trigger glitch cancel, it isn't actually useful for speedrunning (if there is a wall, that means you can already wall jump anyways).
+
+## Forest Jump
+
+The Forest Jump is a technique that lets you quickly perform a very high jump, under extremely particular conditions that make it useless. The conditions are the following:
+- Have at least 3 cartridges
+- Stand on the floor, on a level where you start on a spiral floor (the Power Plants tiles)
+- Be in a roughly 3-tiles wide square centered on the spawn point
+
+In these conditions, switching in certain directions (forward or backward) to certain cartridges (depending on what you have) will launch you up in the air for seemingly no reason.
+
+![Initial jump demonstration](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_InitialJump.webp)
+
+You can chain this jump with any ability (double-jump, dash, voltage...).
+
+This technique is probably useless, for many reasons, the most important one being that it seems to only work in certain Power Plants levels, where you only have 2 cartridges, but you need at least 3 to trigger it.
+
+We have no idea how it works. Going into the editor and replacing the floor with something else looks like it should stop it, but it does not. This makes no sense.
