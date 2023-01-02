@@ -116,6 +116,16 @@
 </details>
 
 ---
+## Speedhack onigiri intended strat
+
+`Time` **00:13.200** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_S_OnigiriIntended.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_S_OnigiriIntended.mp4?raw=true)
+</details>
+
+---
 ## No ink strat
 
 `Time` **00:13.800** `Difficulty` ★☆☆☆☆

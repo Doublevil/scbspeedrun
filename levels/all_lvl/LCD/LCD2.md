@@ -37,6 +37,16 @@
 </details>
 
 ---
+## Speedhack onigiri strat
+
+`Time` **00:09.200** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD2_S_Onigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD2_S_Onigiri.mp4?raw=true)
+</details>
+
+---
 ## Onigiri strat
 
 `Time` **00:11.700** `Difficulty` ★☆☆☆☆

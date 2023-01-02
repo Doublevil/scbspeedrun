@@ -102,6 +102,16 @@
 </details>
 
 ---
+## Speedhack onigiri intended strat
+
+`Time` **00:13.200** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_S_OnigiriIntended.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_S_OnigiriIntended.mp4?raw=true)
+</details>
+
+---
 ## No ink strat
 
 `Time` **00:13.800** `Difficulty` ★☆☆☆☆
@@ -112,14 +122,4 @@
 
   **Notes**
   - If you have trouble getting your ink toggles right, you can always fallback to this strat. It's very safe but also very slow.
-</details>
-
----
-## Onigiri intended strat
-
-`Time` **00:14.700** `Difficulty` ★☆☆☆☆
-<details>
-  <summary>Click to show/hide the strat</summary>
-
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_OnigiriIntended.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD12_OnigiriIntended.mp4?raw=true)
 </details>

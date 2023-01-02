@@ -21,7 +21,7 @@
 ---
 ## Speedhack stair skip save shortcut strat
 
-`Time` **00:07.800** `Difficulty` ★★★☆☆
+`Time` **00:07.700** `Difficulty` ★★★☆☆
 <details>
   <summary>Click to show/hide the strat</summary>
 
@@ -34,7 +34,7 @@
 ---
 ## Speedhack reverse stair skip shortcut strat
 
-`Time` **00:07.850** `Difficulty` ★★★☆☆
+`Time` **00:08.300** `Difficulty` ★★☆☆☆
 <details>
   <summary>Click to show/hide the strat</summary>
 

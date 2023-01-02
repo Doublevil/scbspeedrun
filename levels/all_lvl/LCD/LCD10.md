@@ -9,7 +9,7 @@
 
 ## Speedhack optimized strat
 
-`Time` **00:15.100** `Difficulty` ★★★★★
+`Time` **00:14.900** `Difficulty` ★★★★★
 <details open>
   <summary>Click to show/hide the strat</summary>
 
@@ -35,6 +35,20 @@
 </details>
 
 ---
+## Speedhack safer strat
+
+`Time` **00:15.900** `Difficulty` ★★★☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD10_S_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD10_S_Strat.mp4?raw=true)
+
+  **Notes**
+  - Doing this level fast might give you some trouble at first. This is just memorization. There is almost nothing you have to react to.
+  - The speedhack makes things a bit harder, as you have to be careful not to jump over the ink platforms entirely.
+</details>
+
+---
 ## Onigiri strat
 
 `Time` **00:16.300** `Difficulty` ★★★★☆
@@ -45,20 +59,6 @@
 
   **Notes**
   - The back and forth between dash and ink is very precise, but you can fallback to a more comfortable strat, the onigiri part itself should stay the same.
-</details>
-
----
-## Speedhack safer strat
-
-`Time` **00:16.700** `Difficulty` ★★★☆☆
-<details>
-  <summary>Click to show/hide the strat</summary>
-
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD10_S_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD10_S_Strat.mp4?raw=true)
-
-  **Notes**
-  - Doing this level fast might give you some trouble at first. This is just memorization. There is almost nothing you have to react to.
-  - The speedhack makes things a bit harder, as you have to be careful not to jump over the ink platforms entirely.
 </details>
 
 ---

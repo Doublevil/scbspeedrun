@@ -9,7 +9,7 @@
 
 ## Speedhack optimized strat
 
-`Time` **00:15.100** `Difficulty` ★★★★★
+`Time` **00:14.900** `Difficulty` ★★★★★
 <details open>
   <summary>Click to show/hide the strat</summary>
 
@@ -24,7 +24,7 @@
 ---
 ## Speedhack safer strat
 
-`Time` **00:16.700** `Difficulty` ★★★☆☆
+`Time` **00:15.900** `Difficulty` ★★★☆☆
 <details>
   <summary>Click to show/hide the strat</summary>
 

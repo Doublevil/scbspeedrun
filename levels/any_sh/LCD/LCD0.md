@@ -29,3 +29,18 @@
   **Notes**
   - LCD is where the speedhack shines, but also where it gets harder to control. Even in LCD0, it's easy to just be too late toggling back the ink cart and run into the ink glitch pillar at the start.
 </details>
+
+---
+## Speedhack double onigiri strat
+
+`Time` **00:26.500** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD0_S_DoubleOnigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD0_S_DoubleOnigiri.mp4?raw=true)
+
+  **Notes**
+  - Ugh. Thanks Sørb!
+  - Don't try to over-optimize and miss a platform or something. You don't want to die on this one.
+  - You can do the onigiris in reverse order if you prefer, there's no real difference in timing.
+</details>
