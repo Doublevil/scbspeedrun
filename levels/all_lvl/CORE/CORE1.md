@@ -47,6 +47,21 @@
 </details>
 
 ---
+## Speedhack double onigiri strat
+
+`Time` **00:25.300** `Difficulty` ★★★★★
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE1_S_DoubleOnigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE1_S_DoubleOnigiri.mp4?raw=true)
+
+  **Notes**
+  - You can use ink clipping to get some more boosts on the way, but it's very risky.
+  - Speedhack makes certain jumps ridiculously hard. The hardest one is jumping from the L shaped platform, above two glitch squares. For this one, you need a little bit of horizontal momentum when you jump, but not too much. With speedhack, you have to run on the platform for no more but no less than a few frames before jumping, otherwise you will either bump into the first glitch square, or fall into the second one.
+  - You can save some bad jumps by juggling the onigiri with the jump cart.
+</details>
+
+---
 ## Double onigiri strat
 
 `Time` **00:27.000** `Difficulty` ★★★★☆
@@ -57,4 +72,5 @@
 
   **Notes**
   - You can use ink clipping to get some more boosts on the way, but it's very risky.
+  - You can save some bad jumps by juggling the onigiri with the jump cart.
 </details>

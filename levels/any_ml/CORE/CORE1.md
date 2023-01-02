@@ -37,4 +37,5 @@
 
   **Notes**
   - You can use ink clipping to get some more boosts on the way, but it's very risky.
+  - You can save some bad jumps by juggling the onigiri with the jump cart.
 </details>
