@@ -24,6 +24,19 @@
 </details>
 
 ---
+## Speedhack onigiri risky strat
+
+`Time` **00:11.200** `Difficulty` ★★★★★
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RAM/RAM2_S_OnigiriRisky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RAM/RAM2_S_OnigiriRisky.mp4?raw=true)
+
+  **Notes**
+  - One of the hardest strats in the guide. It's highly recommended to take it slower and safer, because chaining everything together as fast as speedhack takes you is madness.
+</details>
+
+---
 ## Onigiri strat
 
 `Time` **00:13.600** `Difficulty` ★★★★★
