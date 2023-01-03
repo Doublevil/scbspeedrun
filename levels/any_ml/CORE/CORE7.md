@@ -21,6 +21,16 @@
 </details>
 
 ---
+## Safe strat
+
+`Time` **00:33.700** `Difficulty` ★★★☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE7_SafeStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE7_SafeStrat.mp4?raw=true)
+</details>
+
+---
 ## Onigiri strat
 
 `Time` **00:33.700** `Difficulty` ★★★★☆
@@ -31,14 +41,4 @@
 
   **Notes**
   - Much like the risky strat from Any%, you can use more intended approaches to reduce difficulty.
-</details>
-
----
-## Safe strat
-
-`Time` **00:33.700** `Difficulty` ★★★☆☆
-<details>
-  <summary>Click to show/hide the strat</summary>
-
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE7_SafeStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/CORE/CORE7_SafeStrat.mp4?raw=true)
 </details>

@@ -4,13 +4,29 @@
 
 [< Back (CloudHopper)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/HC/CloudHopper.md) | [Next (RF1) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/RF/RF1.md)
 
-## Best cycle strat
+## Speedhack best cycle strat
 
-`Time` **00:11.800** `Difficulty` ★★★★☆
+`Time` **00:11.500** `Difficulty` ★★★☆☆
 <details open>
   <summary>Click to show/hide the strat</summary>
 
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RF/RF0_S_BestCycle.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RF/RF0_S_BestCycle.mp4?raw=true)
+
+  **Notes**
+  - The dash in between lasers takes some training to master, but it's not that precise.
+</details>
+
+---
+## Best cycle strat
+
+`Time` **00:11.800** `Difficulty` ★★★★☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RF/RF0_BestCycleStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RF/RF0_BestCycleStrat.mp4?raw=true)
+
+  **Notes**
+  - The dash in between lasers takes some training to master, but it's not that precise.
 </details>
 
 ---
@@ -78,6 +94,21 @@
   - The dash in between lasers shouldn't be too hard with a bit of training, and the timing is very lenient for this.
   - The last timing to master is the horizontal laser cycle. If you make it to the same cycle as the strat, just note that it will stop firing the moment the rotating laser behind you hits the block you're waiting on.
   - There is some leniency to this part, you don't have to perfectly play into the laser timing, but it's still pretty tight.
+</details>
+
+---
+## Speedhack ink onigiri strat
+
+`Time` **00:14.300** `Difficulty` ★★★★☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RF/RF0_S_InkOnigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RF/RF0_S_InkOnigiri.mp4?raw=true)
+
+  **Notes**
+  - If you miss any laser cycle, you'll have to improvise or die. When missing early on, you're probably better off hitting a glitch to reset everything, rather than try to improvise with the cycles and probably die anyways.
+  - At the start, it's easier to line up for voltage cart after doing a neutral jump, because the speedhack would make us run into the glitch block to the left otherwise.
+  - About the horizontal laser cycle timing: if you make it to the same cycle as the strat, note that it will stop firing the moment the rotating laser behind you hits the block you're waiting on. It's very lenient though, especially with speedhack. You don't have to rush it.
 </details>
 
 ---

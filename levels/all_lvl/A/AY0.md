@@ -27,16 +27,6 @@
 </details>
 
 ---
-## Strat
-
-`Time` **00:09.500** `Difficulty` ★★☆☆☆
-<details>
-  <summary>Click to show/hide the strat</summary>
-
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY0_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY0_Strat.mp4?raw=true)
-</details>
-
----
 ## Onigiri strat
 
 `Time` **00:09.500** `Difficulty` ★★☆☆☆
@@ -44,4 +34,14 @@
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY0_Onigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY0_Onigiri.mp4?raw=true)
+</details>
+
+---
+## Strat
+
+`Time` **00:09.500** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY0_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY0_Strat.mp4?raw=true)
 </details>

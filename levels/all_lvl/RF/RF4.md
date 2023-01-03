@@ -59,7 +59,7 @@
 </details>
 
 ---
-## All onigiri intended strat
+## Double onigiri intended strat
 
 `Time` **00:21.700** `Difficulty` ★★★★★
 <details>
