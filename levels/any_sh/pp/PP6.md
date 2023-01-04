@@ -40,16 +40,3 @@
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP6_S_DoubleOnigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP6_S_DoubleOnigiri.mp4?raw=true)
 </details>
-
----
-## Double onigiri strat
-
-`Time` **00:24.200** `Difficulty` ★★★☆☆
-<details>
-  <summary>Click to show/hide the strat</summary>
-
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP6_DoubleOnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP6_DoubleOnigiriStrat.mp4?raw=true)
-
-  **Notes**
-  - It's hard to get in this fully optimized form, but if you slow down a little bit here and there, it shouldn't be too difficult.
-</details>

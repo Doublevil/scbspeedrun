@@ -17,18 +17,3 @@
   - At the start, it's easier to line up for voltage cart after doing a neutral jump, because the speedhack would make us run into the glitch block to the left otherwise.
   - About the horizontal laser cycle timing: if you make it to the same cycle as the strat, note that it will stop firing the moment the rotating laser behind you hits the block you're waiting on. It's very lenient though, especially with speedhack. You don't have to rush it.
 </details>
-
----
-## Ink onigiri strat
-
-`Time` **00:15.300** `Difficulty` ★★★★☆
-<details>
-  <summary>Click to show/hide the strat</summary>
-
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RF/RF0_InkOnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RF/RF0_InkOnigiriStrat.mp4?raw=true)
-
-  **Notes**
-  - If you miss any laser cycle, you'll have to improvise or die. When missing early on, you're probably better off hitting a glitch to reset everything, rather than try to improvise with the cycles and probably die anyways.
-  - We use ink clipping in the rotating laser part, but it's not required, you can take it slower without any penalty, because you have to wait for the rotating lasers anyways.
-  - About the horizontal laser cycle timing: if you make it to the same cycle as the strat, note that it will stop firing the moment the rotating laser behind you hits the block you're waiting on. For the ink strat though, it's very lenient, you don't have to rush it.
-</details>

@@ -13,5 +13,5 @@
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY2_DoubleOnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AY2_DoubleOnigiriStrat.mp4?raw=true)
 
   **Notes**
-  - With speedhack, the strat is the same and timing is similar. Running up the walls doesn't same time.
+  - With speedhack, the strat is the same and timing is similar. Running up the walls doesn't save time.
 </details>

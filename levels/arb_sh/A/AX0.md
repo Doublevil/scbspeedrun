@@ -14,16 +14,6 @@
 </details>
 
 ---
-## Onigiri voltage strat
-
-`Time` **00:13.600** `Difficulty` ★★☆☆☆
-<details>
-  <summary>Click to show/hide the strat</summary>
-
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX0_VoltageOnigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/A/AX0_VoltageOnigiri.mp4?raw=true)
-</details>
-
----
 ## Onigiri strat
 
 `Time` **00:15.000** `Difficulty` ★★☆☆☆
