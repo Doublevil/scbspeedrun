@@ -16,7 +16,7 @@
 ---
 ## Voltage onigiri strat
 
-`Time` **00:09.800** `Difficulty` ★★☆☆☆
+`Time` **00:09.700** `Difficulty` ★★☆☆☆
 <details>
   <summary>Click to show/hide the strat</summary>
 
@@ -34,6 +34,20 @@
 
   **Notes**
   - Those hooks can be very precise. You have to aim at the surfaces you want to hook for a split-second before pressing up again and jumping.
+</details>
+
+---
+## Speedhack jump onigiri shortcut strat
+
+`Time` **00:12.400** `Difficulty` ★★★☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/HC/HC1_S_JumpOnigiriShortcut.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/HC/HC1_S_JumpOnigiriShortcut.mp4?raw=true)
+
+  **Notes**
+  - This strat avoids a number of precise wall jumps with a pretty simple cable jump juggle.
+  - The first jump is a bit scary, make sure you start jumping near the end of the coyote time period, and time your double-jump and dash in about the same way as shown in the video.
 </details>
 
 ---

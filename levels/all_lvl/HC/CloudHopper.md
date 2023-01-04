@@ -14,6 +14,16 @@
 </details>
 
 ---
+## Speedhack jailbreak OFF strat
+
+`Time` **00:08.600** `Difficulty` ★☆☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/HC/CloudHopper_S_JailbreakOff.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/HC/CloudHopper_S_JailbreakOff.mp4?raw=true)
+</details>
+
+---
 ## Jailbreak OFF strat
 
 `Time` **00:09.200** `Difficulty` ★☆☆☆☆

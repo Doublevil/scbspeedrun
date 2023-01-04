@@ -24,6 +24,21 @@
 </details>
 
 ---
+## Speedhack ink onigiri strat
+
+`Time` **00:15.600** `Difficulty` ★★★★★
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/HC/HC0_S_InkOnigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/HC/HC0_S_InkOnigiri.mp4?raw=true)
+
+  **Notes**
+  - Apart from a skip at the start and a double-jump + dash juggle near the end, this is the intended path for the onigiri.
+  - If you don't feel confident enough in the juggle at the end, you can replace it by the intended succession of wall jumps, but these are slower, and probably at least equally difficult.
+  - This is one of these strats where speedhack is only marginally faster, but way harder.
+</details>
+
+---
 ## Ink onigiri strat
 
 `Time` **00:16.000** `Difficulty` ★★★★☆
