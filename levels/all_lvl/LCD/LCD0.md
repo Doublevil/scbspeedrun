@@ -31,6 +31,19 @@
 </details>
 
 ---
+## Speedhack jailbreak strat
+
+`Time` **00:03.350** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD0_S_Jailbreak.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD0_S_Jailbreak.mp4?raw=true)
+
+  **Notes**
+  - This one is actually easier with speedhack, for a change.
+</details>
+
+---
 ## Wall clip strat
 
 `Time` **00:03.450** `Difficulty` ★★☆☆☆

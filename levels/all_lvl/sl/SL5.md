@@ -4,10 +4,20 @@
 
 [< Back (SL4)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/sl/SL4.md) | [Next (KernelPanicSL) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/sl/KernelPanicSL.md)
 
+## Speedhack jailbreak onigiri strat
+
+`Time` **00:06.850** `Difficulty` ★★☆☆☆
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/SL5_S_JailbreakOnigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/SL5_S_JailbreakOnigiri.mp4?raw=true)
+</details>
+
+---
 ## Jailbreak onigiri strat
 
 `Time` **00:07.800** `Difficulty` ★★☆☆☆
-<details open>
+<details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/SL5_JailbreakOnigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/SL5_JailbreakOnigiri.mp4?raw=true)

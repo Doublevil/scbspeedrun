@@ -29,6 +29,16 @@
 </details>
 
 ---
+## Speedhack jailbreak strat
+
+`Time` **00:09.800** `Difficulty` ★★☆☆☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_S_Jailbreak.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD7_S_Jailbreak.mp4?raw=true)
+</details>
+
+---
 ## Jailbreak strat
 
 `Time` **00:09.800** `Difficulty` ★★★☆☆
