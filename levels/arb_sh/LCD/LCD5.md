@@ -1,0 +1,34 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
+# All Onigiris Speedhack > Liquid Crystal Dimension > LCD5
+
+[< Back (LCD4)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/arb_sh/LCD/LCD4.md) | [Next (LCD6) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/arb_sh/LCD/LCD6.md)
+
+## Speedhack onigiri risky strat
+
+`Time` **00:08.500** `Difficulty` ★★★★★
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD5_S_OnigiriRisky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD5_S_OnigiriRisky.mp4?raw=true)
+
+  **Notes**
+  - It's possible to make it consistent with training, but this is really hard and does not save much. It does look cool though.
+  - Check out the other strat instead.
+</details>
+
+---
+## Speedhack onigiri safer strat
+
+`Time` **00:08.800** `Difficulty` ★★★★☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD5_S_Onigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD5_S_Onigiri.mp4?raw=true)
+
+  **Notes**
+  - Speedhack makes things harder on this one.
+  - First, squeezing into the onigiri labyrinth is harder when you run up the ink walls. You have to cancel your jump. There's a rhythm to it that makes it consistent.
+  - Second, it's harder to execute precise movement near the glitch blocks after picking up the onigiri. This strat demonstrates touching the left ink wall of the labyrinth and then going all the way back to the start to run on the ink ground at top speed.
+  - The cool thing is that a single jump with speedhack ground speed allows us to exit the labyrinth and land directly on the other side of the glitchy ink wall near the goal.
+</details>

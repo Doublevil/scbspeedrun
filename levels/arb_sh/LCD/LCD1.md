@@ -1,0 +1,17 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
+# All Onigiris Speedhack > Liquid Crystal Dimension > LCD1
+
+[< Back (LCD0)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/arb_sh/LCD/LCD0.md) | [Next (LCD2) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/arb_sh/LCD/LCD2.md)
+
+## Speedhack onigiri strat
+
+`Time` **00:03.900** `Difficulty` ★★☆☆☆
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD1_S_Onigiri.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD1_S_Onigiri.mp4?raw=true)
+
+  **Notes**
+  - The glitch maze part looks scary, but as long as you don't hug the right wall on your way back, it's really not too dangerous at all.
+</details>

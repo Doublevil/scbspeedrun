@@ -1,36 +1,13 @@
 [Go back to the home page](https://github.com/Doublevil/scbspeedrun)
 
-# Any% Main Levels > Power Plants > PP9
+# All Onigiris Speedhack > Power Plants > PP9
 
-[< Back (PP8)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/pp/PP8.md) | [Next (PP10) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_ml/pp/PP10.md)
+[< Back (PP8)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/arb_sh/pp/PP8.md) | [Next (PP10) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/arb_sh/pp/PP10.md)
 
-## SD storage strat
-
-`Time` **00:09.300** `Difficulty` ★★★★☆
-<details open>
-  <summary>Click to show/hide the strat</summary>
-
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP9_SDStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP9_SDStrat.mp4?raw=true)
-
-  **Notes**
-  - This strat uses SD Storage. You can learn more about it in the "Jump cart techs" section of this guide.
-</details>
-
----
-## Normal strat
-
-`Time` **00:12.200** `Difficulty` ★☆☆☆☆
-<details>
-  <summary>Click to show/hide the strat</summary>
-
-  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP9_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP9_Strat.mp4?raw=true)
-</details>
-
----
 ## Double onigiri risky strat
 
 `Time` **00:18.800** `Difficulty` ★★★★☆
-<details>
+<details open>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP9_DoubleOnigiriRisky.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/pp/PP9_DoubleOnigiriRisky.mp4?raw=true)

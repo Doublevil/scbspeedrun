@@ -1,0 +1,31 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
+# All Onigiris Speedhack > Hacked Cloud > HC1
+
+[< Back (HC0')](https://github.com/Doublevil/scbspeedrun/blob/main/levels/arb_sh/HC/HC0'.md) | [Next (HC1') >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/arb_sh/HC/HC1'.md)
+
+## Speedhack jump onigiri shortcut strat
+
+`Time` **00:12.400** `Difficulty` ★★★☆☆
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/HC/HC1_S_JumpOnigiriShortcut.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/HC/HC1_S_JumpOnigiriShortcut.mp4?raw=true)
+
+  **Notes**
+  - This strat avoids a number of precise wall jumps with a pretty simple cable jump juggle.
+  - The first jump is a bit scary, make sure you start jumping near the end of the coyote time period, and time your double-jump and dash in about the same way as shown in the video.
+</details>
+
+---
+## Jump onigiri intended strat
+
+`Time` **00:15.800** `Difficulty` ★★★★☆
+<details>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/HC/HC1_JumpOnigiriIntended.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/HC/HC1_JumpOnigiriIntended.mp4?raw=true)
+
+  **Notes**
+  - Check out the faster and easier shortcut strat. This one has a lot of precise wall jumps.
+</details>

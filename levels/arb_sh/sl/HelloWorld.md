@@ -1,0 +1,20 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
+# All Onigiris Speedhack > Sleep Mode > HelloWorld
+
+[Next (SL0) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/arb_sh/sl/SL0.md)
+
+**Notes**
+- Using a save manipulation before the start of the run to entirely skip the first two cutscenes is apparently accepted but won't be shown here.
+
+## Base strat
+
+`Time` **00:18.500** `Difficulty` ★☆☆☆☆
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/HelloWorld_Strat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/sl/HelloWorld_Strat.mp4?raw=true)
+
+  **Notes**
+  - Keep in mind that jumping saves time. See the in-depth movement guide for more info.
+</details>

@@ -1,0 +1,18 @@
+[Go back to the home page](https://github.com/Doublevil/scbspeedrun)
+
+# All Onigiris Speedhack > Random Access Memory > RAM0
+
+[< Back (HelloWorld')](https://github.com/Doublevil/scbspeedrun/blob/main/levels/arb_sh/sl/HelloWorld'.md) | [Next (RAM1) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/arb_sh/RAM/RAM1.md)
+
+## Onigiri strat
+
+`Time` **00:11.800** `Difficulty` ★★★☆☆
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RAM/RAM0_OnigiriStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/RAM/RAM0_OnigiriStrat.mp4?raw=true)
+
+  **Notes**
+  - This is the intended strat.
+  - If you can't reach the walls at the top of the maze, you are probably using jumps instead of dashes, or dashes instead of jumps. You don't have to be particularly precise, but you have to chain the right kind of jumps/dashes in a specific way. Take a closer look at the strat.
+</details>
