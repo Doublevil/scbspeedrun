@@ -4,10 +4,26 @@
 
 [< Back (LCD12)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/LCD/LCD12.md) | [Next (TheQuartzCrystal) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/any_sh/LCD/TheQuartzCrystal.md)
 
+## Wall plug strat
+
+`Time` **00:05.400** `Difficulty` ★★★★☆
+<details open>
+  <summary>Click to show/hide the strat</summary>
+
+  [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD13_WallPlug.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD13_WallPlug.mp4?raw=true)
+
+  **Notes**
+  - This strat uses a Wall Plug. Learn more in the Cable Cart techs page.
+  - The platforming part is a bit tricky and involves a pretty precise ink double jump.
+  - The wall plug part is not an easy one either and may fail if your timing or grabbing point isn't ideal.
+  - To make the wall plug work, grab right under it, then dash upwards immediately, before the cable shrinks (make sure you haven't used up your dash before!)
+</details>
+
+---
 ## Speedhack ink double jump strat
 
 `Time` **00:06.200** `Difficulty` ★★★★☆
-<details open>
+<details>
   <summary>Click to show/hide the strat</summary>
 
   [![Strat animation](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD13_S_InkDoubleJumpStrat.webp)](https://github.com/Doublevil/scbspeedrun/blob/main/media/levels/LCD/LCD13_S_InkDoubleJumpStrat.mp4?raw=true)

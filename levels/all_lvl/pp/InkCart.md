@@ -2,7 +2,7 @@
 
 # All strats > Power Plants > InkCart
 
-[< Back (TheTesslaCoil)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/pp/TheTesslaCoil.md) | [Next (LCD) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/LCD/LCD.md)
+[< Back (TheTeslaCoil)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/pp/TheTeslaCoil.md) | [Next (LCD) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/all_lvl/LCD/LCD.md)
 
 ## Speedhack strat
 

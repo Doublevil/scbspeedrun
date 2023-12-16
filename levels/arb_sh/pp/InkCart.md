@@ -2,7 +2,7 @@
 
 # All Onigiris Speedhack > Power Plants > InkCart
 
-[< Back (TheTesslaCoil)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/arb_sh/pp/TheTesslaCoil.md) | [Next (LCD) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/arb_sh/LCD/LCD.md)
+[< Back (TheTeslaCoil)](https://github.com/Doublevil/scbspeedrun/blob/main/levels/arb_sh/pp/TheTeslaCoil.md) | [Next (LCD) >](https://github.com/Doublevil/scbspeedrun/blob/main/levels/arb_sh/LCD/LCD.md)
 
 ## Speedhack strat
 
