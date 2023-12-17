@@ -121,6 +121,21 @@ There are places where it will consistently work, other places where it's harder
 
 Due to the particular wall configuration required to trigger glitch cancel, it isn't actually useful for speedrunning (if there is a wall, that means you can already wall jump anyways).
 
+## Super Wall Jump
+
+In very specific conditions, you can get a crazy vertical boost when wall jumping.
+
+![Super Wall Jump demo](https://github.com/Doublevil/scbspeedrun/blob/main/media/tech/Movement_SuperWallJump.webp)
+
+The conditions are:
+- The block you wall jump against has to be positioned 1 tile to the right of the spawn position. There are no restrictions on the Y-axis.
+- Only the left edge of the block will work.
+- Only corner blocks will work (wall blocks having another block of the same type both above and below will not work).
+
+The demonstration video shows how to do it: it's way more likely to come out of a neutral jump (do not hold any direction while pressing Jump). Still, it's not a guarantee.
+
+Another note is that it can also boost you downwards when jumping off the bottom of a bottom-corner block.
+
 ## Forest Jump
 
 The Forest Jump is a technique that lets you quickly perform a very high jump, under extremely particular conditions that make it useless. The conditions are the following:
