@@ -1,4 +1,4 @@
-state("Super Cable Boy", "v1.0.7")
+state("Super Cable Boy", "v1.0.6")
 {
 }
 
@@ -17,8 +17,8 @@ state("Super Cable Boy", "v1.0.7")
 startup {
     vars.metaSceneManagerScanTarget = new SigScanTarget(0,
 	    "41 FF D3 85 C0 74 24 48 B8 ?? ?? ?? ?? ?? ?? ?? ?? 48 8B 00 48 8B C8 83 38 00 48 8D 6D 00 49 BB ?? ?? ?? ?? ?? ?? ?? ?? 41 FF D3 48 8B 75 F8 48 8D 65 00 5D C3");
-	vars.clockFramesScanTarget = new SigScanTarget(0, "0F B6 40 18 85 C0 75 1E 48 B8 ?? ?? ?? ?? ?? ?? ?? ?? 48 8B 08 48 83 C1 01 48 B8 ?? ?? ?? ?? ?? ?? ?? ?? 48 89 08 48 83 C4 08 C3");
-	vars.freezePlaytimeTimerScanTarget = new SigScanTarget(0, "41 FF D3 48 89 45 A0 48 B8 ?? ?? ?? ?? ?? ?? ?? ?? 0F B6 00 85 C0 ?? ?? ?? ?? ?? ?? 48 8B 4E 38 48 BA");
+	vars.clockFramesScanTarget = new SigScanTarget(0, "48 8B 08 48 83 C1 01 48 B8 ?? ?? ?? ?? ?? ?? ?? ?? 48 89 08 48 8B 34 24");
+	vars.freezePlaytimeTimerScanTarget = new SigScanTarget(0, "48 B8 ?? ?? ?? ?? ?? ?? ?? ?? 0F B6 00 85 C0 ?? ?? ?? ?? ?? ?? 48 8B 4E 38 48 BA");
 	vars.metaSceneManagerStaticInstancePtr = IntPtr.Zero;
 	vars.metaSceneManagerFound = false;
 	
@@ -183,7 +183,7 @@ init
 {
 	print("Initializing Super Cable Boy Auto Split");
     refreshRate = 60;
-    version = "v1.0.7";
+    version = "v1.0.6";
 	
 	vars.metaSceneManagerStaticInstancePtr = IntPtr.Zero;
 	vars.metaSceneManagerFound = false;
@@ -224,7 +224,7 @@ init
 	
 	// Now find the reference to the static address of the timer ellapsedFrames field,
 	// which is 10 (0xA) bytes after the start of the code signature.
-	var ellapsedFramesPtr = game.ReadValue<IntPtr>(clockFramesCodePtr + 0xA);
+	var ellapsedFramesPtr = game.ReadValue<IntPtr>(clockFramesCodePtr + 0x9);
 	if (ellapsedFramesPtr == IntPtr.Zero) {
 		// See ugly workaround comment above.
         Thread.Sleep(1000);
